@@ -12,5 +12,5 @@
 - :pushpin: Node Deployment, Operation, Troubleshooting & Risk Mitigation
 
 
-[GitHub](https://github.com/Estebank97/Keep-Node-Docs/)
+[GitHub](https://github.com/KeepDocs/KeepDocs.github.io/)
 [Get Started](basics/start.md)
