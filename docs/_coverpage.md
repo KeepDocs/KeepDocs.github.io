@@ -7,9 +7,9 @@
 > Community Curated Documentation
 
 - **Staking in Keep Network**
-- :heavy_check_mark: Overview, Rewards, Economics, Comparisons, Slashing & Liquidation
-- :heavy_check_mark: All The Keeps Guide for TBTC Deposits/Redemptions control
-- :heavy_check_mark: Node Deployment, Operation, Troubleshooting & Risk Mitigation
+- :pushpin: Overview, Rewards, Economics, Comparisons, Slashing & Liquidation
+- :pushpin: All The Keeps Guide for TBTC Deposits/Redemptions control
+- :pushpin: Node Deployment, Operation, Troubleshooting & Risk Mitigation
 
 
 [GitHub](https://github.com/Estebank97/Keep-Node-Docs/)
