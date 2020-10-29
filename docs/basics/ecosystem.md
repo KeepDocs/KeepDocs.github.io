@@ -1,6 +1,6 @@
 # TBTC Ecosystem
 ## Mint TBTC
-- Official tBTC minting page : https://dapp.tbtc.network/deposit
+- Official TBTC minting page : https://dapp.tbtc.network/deposit
 
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097675-62a47e00-16ae-11eb-8dd9-679f83bfa704.png">
@@ -15,7 +15,7 @@ You can swap between native BTC and TBTC
 </p>
 
 ## Trade TBTC
-You can trade tBTC at **Uniswap**, **Curve**, **Balancer**, **Sushiswap** now and there are liquidity incentives for Curve and Sushiswap.
+You can trade TBTC at **Uniswap**, **Curve**, **Balancer**, **Sushiswap** now and there are liquidity incentives for Curve and Sushiswap.
 ### Uniswap
 
 [Uniswap TBTC-ETH Pair](https://app.uniswap.org/#/swap?inputCurrency=0x8daebade922df735c38c80c7ebd708af50815faa&outputCurrency=ETH)
@@ -30,9 +30,9 @@ You can trade tBTC at **Uniswap**, **Curve**, **Balancer**, **Sushiswap** now an
 
 ### Curve
 
-[Curve tbtc metapool](https://www.curve.fi/tbtc/). 
+[Curve TBTC metapool](https://www.curve.fi/tbtc/). 
 
-You can mine CRV at Curve tBTC pool now and there will be liquidity incentives(KEEP rewards) for this pool too. 
+You can mine CRV at Curve TBTC pool now and there will be liquidity incentives (KEEP rewards) for this pool too. 
 
 You can find the contract address [here](https://etherscan.io/address/0xC25099792E9349C7DD09759744ea681C7de2cb66).
 
@@ -87,7 +87,7 @@ You can see all participants [here](https://allthekeeps.com/torch).
 
 
 
-- [Yearn propsal of tbtc vault](https://gov.yearn.finance/t/request-for-yearn-community-support-for-tbtc-and-creation-of-tbtc-vault-decentralized-bitcoin/6374)
+- [Yearn propsal of TBTC vault](https://gov.yearn.finance/t/request-for-yearn-community-support-for-tbtc-and-creation-of-tbtc-vault-decentralized-bitcoin/6374)
 
 It's an idea for a future TBTC Vault, using TBTC as collateral, borrowing stablecoins, investing, and rebuying more TBTC with the returns.
 <p align="center">
