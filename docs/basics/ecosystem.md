@@ -8,7 +8,7 @@
 
 - JellySwap: https://app.jelly.market/swap/BTC-TBTC 
 
-You can swap between native BTC and tBTC
+You can swap between native BTC and TBTC
 
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097672-502a4480-16ae-11eb-8045-0658f7556355.png">
