@@ -1,6 +1,7 @@
 - **Getting Started**
 	- [Basic Description - TLDR](basics/start.md)
 	- [Introduction to Keep Network & tBTC](basics/intro.md)
+	- [TBTC Ecosystem](basics/ecosystem.md)
 	- [Community Tools](basics/tools.md)
 	- [All The Keeps Guide](basics/atk.md)
 
