@@ -6,6 +6,9 @@ Here is a indexed & curated list :
 
 ?> Don't forget to checkout [Node Operation Section](/Node-Operation/intro-operation) as well, where you can find lot of docs, guides and how-to's and further assistance on deploying, maintaining, monitoring and troubleshooting your Nodes.
 
+---
+
+
 ## Node Assistance Tools
 ### Keepnode.app
 
@@ -124,6 +127,9 @@ tBTC System & Node Operators Control
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94620605-47984700-0285-11eb-8439-7e6897b55d7f.png">
 </p>
 
+---
+
+
 ## Node Creation Tools
 ### Keeptools.org
 
@@ -170,6 +176,9 @@ tBTC System & Node Operators Control
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/68087535/95020363-159a3280-0641-11eb-99b9-7bb0c0c114b9.png">
 </p>
+
+---
+
 
 ## tBTC System Exploration Tools
 
@@ -245,6 +254,9 @@ TBTC deposits/redeems Explorer Tool
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94812402-0f038500-03cd-11eb-8ed4-b0e5d7c91e35.png">
 </p>
 
+---
+
+
 ## Keep Community Sites
 
 ### Keepforum.top
@@ -282,6 +294,9 @@ A curated list of keep-network and tBTC dapp related resources.
 </p>
 
 
+---
+
+
 
 ## Keep Community Reports
 
@@ -315,7 +330,15 @@ Report
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94609265-e10b2d00-0274-11eb-9016-b932426ffe65.png">
 </p>
 
+---
+
+
+
 ## Keep Community Videos
+
+
+---
+
 
 
 ## KEEP Token Related Sites
@@ -374,6 +397,14 @@ Random Number Creation Tool
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94489740-68946580-01bb-11eb-87fe-4b38e39f9263.png">
 </p>
 
+---
 
+## Fun Zone
+### KeepMania
 
+**Nikita's :**[KeepMania Game](https://www.keepmania.top/game/)
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/97721323-10959b00-1aa8-11eb-946a-1f4125c955e6.png">
+</p>
 
