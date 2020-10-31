@@ -7,7 +7,7 @@
 > Community Curated Documentation
 
 - **Staking in Keep Network**
-- :pushpin: Overview, Rewards, Economics, Comparisons, Slashing & Liquidation
+- :pushpin: Overview, Rewards, Economics, Community Tools, Slashing & Liquidation
 - :pushpin: All The Keeps Guide for TBTC Deposits/Redemptions control
 - :pushpin: Node Deployment, Operation, Troubleshooting & Risk Mitigation
 
