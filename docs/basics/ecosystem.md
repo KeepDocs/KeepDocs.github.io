@@ -8,7 +8,7 @@
 
 - JellySwap: https://app.jelly.market/swap/BTC-TBTC 
 
-You can swap between native BTC and TBTC
+You can swap between native BTC and TBTC in any amount desired, here you are not limited by the TBTC defined sizes. For example if you want to transfer 2.5 BTC you would need 3 transactions in TBTC Dashboard and only one here.
 
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097672-502a4480-16ae-11eb-8045-0658f7556355.png">
