@@ -337,6 +337,17 @@ Report
 ## Keep Community Videos
 
 
+**Tian7.eth's : ** 
+- [TBTC Redemption Monitoring](https://youtu.be/Lzch9w5-NpE)
+
+**Artem's :**
+- [tBTC explanation part 1](https://youtu.be/tYMCoEPlV-Q)
+- [tBTC explanation part 2](https://youtu.be/cfmQiArg3B8)
+- [tbtc explanation part 3](https://www.youtube.com/watch?v=BqCVV8W9ya4&feature=youtu.be)
+
+**SergijsM's :**
+- [Rap video](https://www.youtube.com/watch?v=RYaynqwrY8Q)
+
 ---
 
 
@@ -402,9 +413,25 @@ Random Number Creation Tool
 ## Fun Zone
 ### KeepMania
 
-**Nikita's :**[KeepMania Game](https://www.keepmania.top/game/)
+**Nikita's : ** [KeepMania Game](https://www.keepmania.top/game/)
 
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/73607532/97721323-10959b00-1aa8-11eb-946a-1f4125c955e6.png">
 </p>
 
+**Dice's : ** [Decentraland events](https://events.decentraland.org/en/?event=8bdcae54-4811-406c-80f5-9ca4bbbef256)
+
+
+**Azaticus' : ** [KEEP Halloween game](https://playforkeeps.online/)
+
+
+**HelenR's : ** [KEEP Hunter game](http://keephunters.com/)
+
+
+**Geleoncaan's : ** [KEEP Tank game](https://keepbattle.xyz/)
+
+**Guoli's : ** [Super Mario Bros game](https://eguoli.github.io/keepmariogame/index.html)
+
+---
+
+`Contributors : Tian7.eth, Ramaruro, EstebanK`
