@@ -75,7 +75,6 @@ tBTC System & Node Operators Control
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94718480-2d637500-0328-11eb-8b28-d9b1fd4e323e.png">
 </p>
 
-### Keep Staking Risks and Mitigation
 
 **StateLayer's :** [Keep stakedrop risks and mitigation strategiess](https://hackmd.io/@LayerState/KeepStakedropRisks)
 - different ways you could lose the ETH you staked
@@ -85,10 +84,18 @@ tBTC System & Node Operators Control
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94726467-ac11df80-0333-11eb-85c5-7ab76c70bc7a.png">
 </p>
 
+**KFerret's :** [ECDSA Node Risks & Mitigation Strategies on his KeepTools.org](https://keeptools.org/staking/ecdsa-risks)
+
+- or: How Not to Lose Money Staking for tBTC
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/98037450-57fa8f00-1dfa-11eb-80e2-2522981e9ebe.png">
+</p>
+
 
 ### Node Operation Error lists
 
-**Nico186’s :** [ECDSA and Random Beacon Warning Logs](https://docs.google.com/document/u/2/d/e/2PACX-1vRYtVyLSwuNBL9Xk-M1HeHloJ7MIGqwiEzsuXYnKHQqnSz2gfd2Q3czJeOzEferPKIr7GvIznQxsckb/pub)
+**Nico186 & GC23997’s :** [ECDSA and Random Beacon Warning Logs](https://docs.google.com/document/d/1LWifICcSCKaX9d3aoFxfnxy-niIWHUTx4su5Tqvv2RE/edit)
 - Node Errors guide
 - common errors list with explanations and proposed solutions
 - complementing with [Troubleshooting Section](https://estebank97.github.io/Keep-Node-Docs/#/Node-Operation/troubleshooting)
@@ -96,6 +103,7 @@ tBTC System & Node Operators Control
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94491165-16087880-01be-11eb-9206-72467688f309.png">
 </p>
+- Both created a [Updating Nodes Guide](https://docs.google.com/document/d/1HfT0PgQ04de7KPLhA8p8NJVv5E1o1f5kOMzkkiYN-6Q/edit) as well.
 
 ### Monitoring Guides
 
