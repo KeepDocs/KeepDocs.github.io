@@ -17,7 +17,7 @@ Here is a indexed & curated list :
 - check a node’s availability
 - for mainnet & testnet operators
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94490632-fcb2fc80-01bc-11eb-998b-ef5fcda64c5e.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94490632-fcb2fc80-01bc-11eb-998b-ef5fcda64c5e.png">
 </p>
 
 ### Keeping.surge.sh
@@ -28,7 +28,7 @@ Here is a indexed & curated list :
 - very handy shows current prices on ETH/USD, BTC/USD, ETH/BTC
 - for mainnet operators
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94490819-616e5700-01bd-11eb-845f-2555b98dcd88.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94490819-616e5700-01bd-11eb-845f-2555b98dcd88.png">
 </p>
 
 ### Keep Dashboard Mobile
@@ -39,7 +39,7 @@ Here is a indexed & curated list :
 - available on App Store and Google Play!
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94715046-546b7800-0323-11eb-97ce-a6fa6f3bcd91.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94715046-546b7800-0323-11eb-97ce-a6fa6f3bcd91.png">
 </p>
 
 ### Mainnet Contracts
@@ -49,7 +49,7 @@ Here is a indexed & curated list :
 - for mainnet node migration
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94491079-e2c5e980-01bd-11eb-96ad-e5d2ad1707c7.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94491079-e2c5e980-01bd-11eb-96ad-e5d2ad1707c7.png">
 </p>
 
 ### Allthekeeps.com
@@ -62,7 +62,18 @@ tBTC System & Node Operators Control
 - mainnet info
 - check our User Guide [here](/basics/atk.md)
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94490716-2c620480-01bd-11eb-9bf4-4264e4666ff4.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94490716-2c620480-01bd-11eb-9bf4-4264e4666ff4.png">
+</p>
+
+### Keep Notifying Me
+tBTC Deposits Tracking Tool
+
+**Tanya Fei Tosa’s :** [KEEP NOTIFYING ME](https://keep-notifying-me.herokuapp.com/)
+- You simply provide a tBTC contract address and an email, 
+- you willll be notified as soon as the deposit changes state to something that some action is needed. 
+- Tracked deposit states: AWAITING SIGNER SETUP; AWAITING BTC FUNDING PROOF; AWAITING WITHDRAWAL SIGNATURE; AWAITING WITHDRAWAL PROOF; COURTESY CALL
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/73607532/98039304-42d32f80-1dfd-11eb-8bb6-576a1be0c04a.png">
 </p>
 
 
@@ -72,7 +83,7 @@ tBTC System & Node Operators Control
 - better assess the risks of running Keep Network Nodes
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94718480-2d637500-0328-11eb-8b28-d9b1fd4e323e.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94718480-2d637500-0328-11eb-8b28-d9b1fd4e323e.png">
 </p>
 
 
@@ -81,7 +92,7 @@ tBTC System & Node Operators Control
 - different ways you could mitigate these risks
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94726467-ac11df80-0333-11eb-85c5-7ab76c70bc7a.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94726467-ac11df80-0333-11eb-85c5-7ab76c70bc7a.png">
 </p>
 
 **KFerret's :** [ECDSA Node Risks & Mitigation Strategies on his KeepTools.org](https://keeptools.org/staking/ecdsa-risks)
@@ -89,7 +100,7 @@ tBTC System & Node Operators Control
 - or: How Not to Lose Money Staking for tBTC
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/73607532/98037450-57fa8f00-1dfa-11eb-80e2-2522981e9ebe.png">
+  <img width="400" src="https://user-images.githubusercontent.com/73607532/98037450-57fa8f00-1dfa-11eb-80e2-2522981e9ebe.png">
 </p>
 
 
@@ -101,7 +112,7 @@ tBTC System & Node Operators Control
 - complementing with [Troubleshooting Section](https://estebank97.github.io/Keep-Node-Docs/#/Node-Operation/troubleshooting)
 - for all operators
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94491165-16087880-01be-11eb-9206-72467688f309.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94491165-16087880-01be-11eb-9206-72467688f309.png">
 </p>
 - Both created a [Updating Nodes Guide](https://docs.google.com/document/d/1HfT0PgQ04de7KPLhA8p8NJVv5E1o1f5kOMzkkiYN-6Q/edit) as well.
 
@@ -111,7 +122,7 @@ tBTC System & Node Operators Control
 - Complementing with [MutedTommy’s Monitoring Guide](https://estebank97.github.io/Keep-Node-Docs/#/Node-Operation/monitoring)
 - for all operators
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94491286-536d0600-01be-11eb-8ce6-287b5fbf6ea1.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94491286-536d0600-01be-11eb-8ce6-287b5fbf6ea1.png">
 </p>
 
 **Grebykirr's :** [Monitoring Guide](https://medium.com/@grebenkin.kirill5/how-to-install-and-configure-elasticsearch-logstash-beats-and-kibana-for-monitoring-keep-docker-f84efd58b48f)
@@ -132,11 +143,11 @@ tBTC System & Node Operators Control
 
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94620605-47984700-0285-11eb-8439-7e6897b55d7f.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94620605-47984700-0285-11eb-8439-7e6897b55d7f.png">
 </p>
 
 ---
-
+---
 
 ## Node Creation Tools
 ### Keeptools.org
@@ -149,7 +160,7 @@ tBTC System & Node Operators Control
 - info about faucets, contracts & repos
 - with testnet and mainnet information
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94492232-346f7380-01c0-11eb-8e61-5f641c6d80de.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94492232-346f7380-01c0-11eb-8e61-5f641c6d80de.png">
 </p>
 
 ### 1click-keep.com
@@ -159,7 +170,7 @@ tBTC System & Node Operators Control
 - without using the console and without having to go to your server!
 - should have completed previous infura and wallet steps (check Deploy your nodes section)
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94489471-e3a94c00-01ba-11eb-9c8e-e89f2779d3dc.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94489471-e3a94c00-01ba-11eb-9c8e-e89f2779d3dc.png">
 </p>
 
 ### Most simple Nodes installation on one VPS
@@ -169,7 +180,7 @@ tBTC System & Node Operators Control
 - Visual step-bys-step guide to install your nodes
 - very complete, includes all steps needed
 <p align="center">
-  <img width="450" src="https://steemitimages.com/1280x0/https://cdn.steemitimages.com/DQmTWqZawot34WSqesHKhUJgrrr55tXUr9YDCtd7sND7i2U/nodes%20guide.png">
+  <img width="400" src="https://steemitimages.com/1280x0/https://cdn.steemitimages.com/DQmTWqZawot34WSqesHKhUJgrrr55tXUr9YDCtd7sND7i2U/nodes%20guide.png">
 </p>
 
 ### Keep_Nodes -  Windows 10 Node creation app
@@ -182,9 +193,10 @@ tBTC System & Node Operators Control
 - to install and start app: download from Github and use KeepNodesInstaller.exe
  
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/95020363-159a3280-0641-11eb-99b9-7bb0c0c114b9.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/95020363-159a3280-0641-11eb-99b9-7bb0c0c114b9.png">
 </p>
 
+---
 ---
 
 
@@ -199,7 +211,7 @@ tBTC System & Node Operators Control
  - ability to return to tBTC DApp if you accidentally interrupted the process
  - calculation of ETH spent on the operation
  <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/95000113-51c38980-0594-11eb-8b83-bed4991cbd68.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/95000113-51c38980-0594-11eb-8b83-bed4991cbd68.png">
 </p>
 
 
@@ -211,7 +223,7 @@ tBTC System & Node Operators Control
 - shows detailed information about the deposit process
 - provides search deposits by address feature, view a transfer history
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94488764-9d9fb880-01b9-11eb-8c87-f6c129f043b3.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94488764-9d9fb880-01b9-11eb-8c87-f6c129f043b3.png">
 </p>
 
 ### Keep Stats
@@ -220,7 +232,7 @@ tBTC System and Keep Network statistics
 **Kferret's :** [Keep Stats](https://keepstats.org/)
 - dashboard for KEEP, staking, and tBTC system usage
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94813109-f9428f80-03cd-11eb-8020-8376be57cc9a.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94813109-f9428f80-03cd-11eb-8020-8376be57cc9a.png">
 </p>
 
 
@@ -232,7 +244,7 @@ TBTC deposits Explorer Tool
 
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94620809-980fa480-0285-11eb-8c85-a8cea1acd793.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94620809-980fa480-0285-11eb-8c85-a8cea1acd793.png">
 </p>
 
 
@@ -246,7 +258,7 @@ Minted TBTC Watching Tool
 - view upcoming liquidations, notify, and purchase them
 - request random beacon entries and view previous entries
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94608720-2c710b80-0274-11eb-8710-38b4ba486af6.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94608720-2c710b80-0274-11eb-8710-38b4ba486af6.png">
 </p>
 
 ### TBTC Explorer
@@ -259,9 +271,10 @@ TBTC deposits/redeems Explorer Tool
 - lists of all available TDTs in the Keep network.
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94812402-0f038500-03cd-11eb-8ed4-b0e5d7c91e35.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94812402-0f038500-03cd-11eb-8ed4-b0e5d7c91e35.png">
 </p>
 
+---
 ---
 
 
@@ -274,7 +287,7 @@ Community site
 **Mayflower1984's :** [Keep Forum](https://forum.keepforum.top/)
 - Forum for Keep Community
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94609725-90e09a80-0275-11eb-97aa-2af52b568263.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94609725-90e09a80-0275-11eb-97aa-2af52b568263.png">
 </p>
 
 
@@ -286,7 +299,7 @@ Community site
 - lot of information about Keep, the Team, the Token, tBtc, Staking & Faq
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94610896-5d067480-0277-11eb-97fe-0e2ef0cdf514.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94610896-5d067480-0277-11eb-97fe-0e2ef0cdf514.png">
 </p>
 
 
@@ -298,7 +311,7 @@ A curated list of keep-network and tBTC dapp related resources.
 **tian7.eth's :** [Awesom-keep-network](https://github.com/ethisscam/awsome-keep-network/blob/master/README.md)
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94614278-4ca4c880-027c-11eb-8859-1dccd4b609b6.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94614278-4ca4c880-027c-11eb-8859-1dccd4b609b6.png">
 </p>
 
 
@@ -315,7 +328,7 @@ Report
 **Ben Longstaff's :** [Report on Keep Network's Rewards](https://medium.com/@ben_longstaff/crypto-yield-farmers-take-note-understanding-the-tbtc-and-keep-network-rewards-mechanics-6042e9dc5d97)
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94491846-60d6c000-01bf-11eb-8c32-5602efd3fd6b.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94491846-60d6c000-01bf-11eb-8c32-5602efd3fd6b.png">
 </p>
 
 ### Insurance for blockchain smart contracts
@@ -325,7 +338,7 @@ Report
 **Ben Longstaff's :** [Insurance for blockchain smart contracts — using Nexus Mutual to insure using TBTC](https://medium.com/@ben_longstaff/insurance-for-blockchain-smart-contracts-using-nexus-mutual-to-insure-using-tbtc-d01604af5859)
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94616636-701d4280-027f-11eb-89a4-1973a7e1f7a1.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94616636-701d4280-027f-11eb-89a4-1973a7e1f7a1.png">
 </p>
 
 ### Keep Stakedrop vs NuCypher Lockdrop
@@ -335,7 +348,7 @@ Report
 **Yurataro’s :** [Comparison report on different Stakedrops](https://medium.com/@yurataro2055/keep-network-vs-nucypher-stakedrop-vs-worklock-d557f08d57b1)
 - Interesting comparison between these two stakedrop projects.
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94609265-e10b2d00-0274-11eb-9016-b932426ffe65.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94609265-e10b2d00-0274-11eb-9016-b932426ffe65.png">
 </p>
 
 ---
@@ -360,7 +373,7 @@ Report
 - [Atmospheric video](https://youtu.be/PoV_ECvHs7U)
 
 ---
-
+---
 
 
 ## KEEP Token Related Sites
@@ -371,7 +384,7 @@ Report
 - lets us see all sort of data: 
 - Keep Tokens, grants, holders, transactions
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94489123-49e19f00-01ba-11eb-9d10-046318cf5418.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94489123-49e19f00-01ba-11eb-9d10-046318cf5418.png">
 </p>
 
 ### Keepprice live Site
@@ -381,7 +394,7 @@ Report
 - live Keep Token prices and exchanges
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94611533-401e7100-0278-11eb-9d04-ed0ac4198e7e.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94611533-401e7100-0278-11eb-9d04-ed0ac4198e7e.png">
 </p>
 
 ### Keepswap.com
@@ -391,7 +404,7 @@ KEEP tokens swapping tool
 - Swap your KEEP tokens and get the best prices across all decentralized crypto exchanges.
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94694871-abfde980-030b-11eb-8bc1-dcb0f06184dc.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94694871-abfde980-030b-11eb-8bc1-dcb0f06184dc.png">
 </p>
 
 ### TBTC Swaps with Lightning Network
@@ -403,7 +416,7 @@ KEEP tokens swapping tool
 - Decentralized: Anyone can provide liquidity and the client will automatically pick the cheapest provider
 
 <p align="center">
-  <img width="450" src="https://github.com/corollari/tbtcswaps/blob/master/images/screenshot.png">
+  <img width="400" src="https://github.com/corollari/tbtcswaps/blob/master/images/screenshot.png">
 </p>
 
 
@@ -416,9 +429,10 @@ Random Number Creation Tool
 - free tool to get a random number in a trustless way, based on keep random beacon
 - simplified process for users to call random numbers from keep random beacon
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94489740-68946580-01bb-11eb-87fe-4b38e39f9263.png">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94489740-68946580-01bb-11eb-87fe-4b38e39f9263.png">
 </p>
 
+---
 ---
 
 ## Fun Zone
@@ -427,7 +441,7 @@ Random Number Creation Tool
 **Nikita's :** [KeepMania Game](https://www.keepmania.top/game/)
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/73607532/97721323-10959b00-1aa8-11eb-946a-1f4125c955e6.png">
+  <img width="300" src="https://user-images.githubusercontent.com/73607532/97721323-10959b00-1aa8-11eb-946a-1f4125c955e6.png">
 </p>
 
 **Dice's :** [Decentraland events](https://events.decentraland.org/en/?event=8bdcae54-4811-406c-80f5-9ca4bbbef256)
