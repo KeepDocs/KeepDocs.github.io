@@ -111,10 +111,12 @@ tBTC Deposits Tracking Tool
 - common errors list with explanations and proposed solutions
 - complementing with [Troubleshooting Section](https://estebank97.github.io/Keep-Node-Docs/#/Node-Operation/troubleshooting)
 - for all operators
+- Both created an [Updating Nodes Guide](https://docs.google.com/document/d/1HfT0PgQ04de7KPLhA8p8NJVv5E1o1f5kOMzkkiYN-6Q/edit) as well.
+
+
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/68087535/94491165-16087880-01be-11eb-9206-72467688f309.png">
 </p>
-- Both created a [Updating Nodes Guide](https://docs.google.com/document/d/1HfT0PgQ04de7KPLhA8p8NJVv5E1o1f5kOMzkkiYN-6Q/edit) as well.
 
 ### Monitoring Guides
 
@@ -316,7 +318,7 @@ A curated list of keep-network and tBTC dapp related resources.
 
 
 ---
-
+---
 
 
 ## Keep Community Reports
@@ -352,7 +354,7 @@ Report
 </p>
 
 ---
-
+---
 
 
 ## Keep Community Videos
