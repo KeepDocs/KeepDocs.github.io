@@ -443,6 +443,10 @@ Random Number Creation Tool
 
 **Guoli's :** [Super Mario Bros game](https://eguoli.github.io/keepmariogame/index.html)
 
+**JokerPrestus' :** [Keep Puzzle](https://keep-puzzle.online/) & [Keep Maps](https://keepmaps.000webhostapp.com/)
+
+
+
 ---
 
 `Contributors : Tian7.eth, Ramaruro, EstebanK`
