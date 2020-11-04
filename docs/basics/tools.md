@@ -370,7 +370,7 @@ Report
 
 ## Keep Community Videos
 
-?> Be sure to check the [Keep Network Youtube Channel](https://www.youtube.com/channel/UC4LmXpKWkNriL209aV3QAJw) with the complete list of videos !
+?> Be sure to check out and subscribe to the [Keep Network Youtube Channel](https://www.youtube.com/channel/UC4LmXpKWkNriL209aV3QAJw). You will find  there a complete list of videos including Keep Team appearences on Podcast and Interviews!
 
 **Tian7.eth's :** 
 - [TBTC Redemption Monitoring](https://youtu.be/Lzch9w5-NpE)
