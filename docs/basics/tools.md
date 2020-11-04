@@ -343,6 +343,17 @@ Report
   <img width="400" src="https://user-images.githubusercontent.com/68087535/94616636-701d4280-027f-11eb-89a4-1973a7e1f7a1.png">
 </p>
 
+### Guides for TBTC Liquidity Pools
+
+**Careica Man's :** [TbtcPools site](https://www.tbtcpools.com/)
+- contains following ELI5 guides which he wrote:
+
+- [Getting started on tBTC and how to mint it](https://medium.com/@holohlavymuz/getting-started-with-tbtc-c33437be4e19)
+- [How to add tBTC on Curve Liquidity Pool](https://holohlavymuzz.medium.com/adding-tbtc-to-curve-finance-liquidity-pool-a7fd630ab9c1)
+- [How to add tBTC on Uniswap Liquidity Pool](https://medium.com/@holohlavymuz/adding-tbtc-to-a-uniswap-liquidity-pool-3241523b12d6)
+- [How to add tBTC on Balancer Liquidity Pool](https://medium.com/@holohlavymuz/adding-tbtc-to-a-balancer-liquidity-pool-214f2095e925)
+- [How to add tBTC on Sushiswap Liquidity Pool](https://holohlavymuzz.medium.com/adding-tbtc-to-sushiswap-liquidity-pool-380ec3c09784)
+
 ### Keep Stakedrop vs NuCypher Lockdrop
 Report
 
@@ -394,6 +405,19 @@ Report
 
 **Brian's :** [Keepprice.live](https://keepprice.live)
 - live Keep Token prices and exchanges
+
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94611533-401e7100-0278-11eb-9d04-ed0ac4198e7e.png">
+</p>
+
+
+
+### Keep Predict  Site
+
+
+**Airocket's :** [Keeppredict](http://www.keeppredict.com/)
+- neural network KEEP token price prediction site
+- Disclaimer: for entertainment only, do not use for trading decisions !!!
 
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/68087535/94611533-401e7100-0278-11eb-9d04-ed0ac4198e7e.png">
