@@ -420,7 +420,7 @@ Report
 - Disclaimer: for entertainment only, do not use for trading decisions !!!
 
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/68087535/94611533-401e7100-0278-11eb-9d04-ed0ac4198e7e.png">
+  <img width="400" src="https://user-images.githubusercontent.com/73607532/98054025-b59dd400-1e18-11eb-9f3f-f2cc4c8d063b.png">
 </p>
 
 ### Keepswap.com
