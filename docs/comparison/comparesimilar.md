@@ -17,7 +17,7 @@ There are two main alternatives to invest in operating Nodes for Staking purpose
 
 | **Application**| **Technology**|**Staking Requirements**|**Token**|**ROI Expectations**|
 | --- | --- | --- | --- | --- | 
-| tBTC | Random Beacon, ECDSA| Random Beacon: 90,000 KEEP, ECDSA: 150%+ of the Minted BTC| Random Beacon: [KEEP](https://www.coingecko.com/en/coins/keep-network), ECDSA: ETH initially, Later KEEP | See above for Key ROI considerations. Very Strong incentives during Stakedrop to participate and bootstrap the Network | 
+| tBTC | Random Beacon, ECDSA| Random Beacon & ECDSA: 80,000* KEEP + 150%+ of the Minted BTC| Random Beacon: [KEEP](https://www.coingecko.com/en/coins/keep-network), ECDSA: ETH initially, Later KEEP | See above for Key ROI considerations. Very Strong incentives during Stakedrop to participate and bootstrap the Network | 
 |Ren|  Dark Node | 10,000 Nodes Max, 100,000 REN per Node| [REN](https://www.coingecko.com/en/coins/ren)| For August 2020 Cycle, there were ~$146,000 in Rewards for 1195 Nodes, i.e. $122/Node, 3.6%/year (assuming same rewards, ~$40,000 staked for a Node). With increased volume of transfers, rewards will go up. Check [Current Cycle Rewards](https://mainnet.renproject.io/darknodes). Several considerations for rewards accrual make calculations complicated: [Epochs, Registration, Deregistration](https://docs.renproject.io/darknodes/community/darknode-epoch-cycle-changes#darknode-epoch-cycle-or-renvm-mainnet) | 
 |ThorChain (still in Beta, Binance Chain application)|  THORNode | 99 Nodes Max, 1 Million+ RUNE per Node| [RUNE](https://www.coingecko.com/en/coins/thorchain)| Initial Investment is very high ($500K+), not well suited for individual investors, can participate through pools. ~32.97% for Delegator, adjusted reward after inlation is 5.54%. Check [Current Rewards](https://www.stakingrewards.com/earn/thorchain) |
 
@@ -33,7 +33,7 @@ Note that all Network Staking Options show % Rewards in Nominal terms, i.e. if y
 
 | **Application/Blockchain**| **Technology**|**Staking Requirements**|**Token**|**ROI Expectations**|
 | --- | --- | --- | --- | --- | 
-| tBTC | Random Beacon, ECDSA| Random Beacon: 90,000 KEEP, ECDSA: 150%+ of the Minted BTC| Random Beacon: [KEEP](https://www.coingecko.com/en/coins/keep-network), ECDSA: ETH initially, Later KEEP | See above for Key ROI considerations. Very Strong incentives during Stakedrop to participate and bootstrap the Network| 
+| tBTC | Random Beacon, ECDSA| Random Beacon & ECDSA: 80,000* KEEP + 150%+ of the Minted BTC| Random Beacon: [KEEP](https://www.coingecko.com/en/coins/keep-network), ECDSA: ETH initially, Later KEEP | See above for Key ROI considerations. Very Strong incentives during Stakedrop to participate and bootstrap the Network| 
 |[PolkaDot](https://wiki.polkadot.network/docs/en/learn-staking)|  [Validators](https://wiki.polkadot.network/docs/en/maintain-guides-how-to-validate-polkadot) (Node Runners), [Nominators](https://wiki.polkadot.network/docs/en/maintain-guides-how-to-nominate-polkadot) (Passive Staking) | Variable for Validators and Nominators| [DOT](https://www.coingecko.com/en/coins/polkadot)| ~8.5% (Validator) ~8.14% (Delegator), check [Current Rewards](https://www.stakingrewards.com/earn/polkadot) |
 |[Kusama](https://docs.google.com/forms/d/e/1FAIpQLSewhltQOcmkIlE7Wftn0NTVuyEs6Wk8Qpx6ssCAo2BO4oQH0w/viewform)|  Validators (Node Runners) and Nominators (Passive Staking) | 350 KSM| [KSM](https://www.coingecko.com/en/coins/kusama)|~3.82% (Validator) ~3.62% (Delegator), check [Current Rewards](https://www.stakingrewards.com/earn/kusama)  |
 |[Cosmos](https://hub.cosmos.network/master/hub-overview/overview.html#the-atom)|  [Validators](https://hub.cosmos.network/master/validators/overview.html#validators-overview) (Node Runners), [Delegators](https://hub.cosmos.network/master/delegators/delegator-guide-cli.html#delegator-guide-cli) (Passive Staking)| Up to 300 Validators, Top 100 by Stake are chosen, Variable for Delegators| [ATOM](https://www.coingecko.com/en/coins/cosmos)| ~9.11% Validator, 8.38% Delegators, check [Current Rewards](https://www.stakingrewards.com/earn/cosmos)  | 
@@ -41,6 +41,17 @@ Note that all Network Staking Options show % Rewards in Nominal terms, i.e. if y
 |ETH2|  Currently in Testnet | 32 ETH| ETH| [Future Rewards Estimates](https://www.stakingrewards.com/earn/ethereum-2-0)| 
 
 >This article also does a comparison between Keep Network and [Cosmos Validator](https://keeptools.org/comparison/cosmos-validator) / [RenVM Darknode](https://keeptools.org/comparison/renvm-darknode) and includes additional technical aspects.
+
+
+(*) Running Keep Network's Node requires currently an 80.000 KEEP stake. 
+
+This requirements will reduce over time [(Source)](https://hackmd.io/@protocollayer/BkUBl7zIw):
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/99149334-0eb50580-266c-11eb-8d0d-387e385ea74f.png">
+</p>
+
+
 
 ---
 `Written & assembled by Keep Community.`
