@@ -40,6 +40,32 @@ You can find the contract address [here](https://etherscan.io/address/0xC2509979
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097684-73ed8a80-16ae-11eb-8b63-8aaaffba7e11.png">
 </p>
 
+
+
+
+
+### Kraken
+
+
+- [Kraken Digital Asset Exchange](https://www.kraken.com/sign-in)
+
+<p align="center">
+  <img width="158" alt="imagen" src="https://user-images.githubusercontent.com/73607532/100554342-cd7b4300-3272-11eb-813c-00139fb11d08.png">
+</p>
+
+
+- Kraken Digital Asset Exchange is one of the world’s largest and oldest bitcoin exchanges with the widest selection of digital assets and national currencies. Based in San Francisco with offices around the world, Kraken’s trading platform is consistently rated the best and most secure digital asset exchange by independent news media.
+
+
+- KEEP and TBTC were listed on Kraken starting on November 24th, 2020.
+- Trading Pairs for KEEP and TBTC :
+  - Each asset will have four trading pairs for trading in USD, EUR, Bitcoin (XBT), and Ether (ETH):
+  - USD (e.g. KEEP/USD)
+  - EUR (e.g. TBTC/EUR)
+  - XBT (e.g. TBTC/XBT)
+  - ETH (e.g. KEEP/ETH)
+
+
 ### Balancer
 
 - [exchange](http://balancer.exchange/)
