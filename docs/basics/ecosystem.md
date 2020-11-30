@@ -60,10 +60,13 @@ You can find the contract address [here](https://etherscan.io/address/0xC2509979
 - KEEP and TBTC were listed on Kraken starting on November 24th, 2020.
 - Trading Pairs for KEEP and TBTC :
   - Each asset will have four trading pairs for trading in USD, EUR, Bitcoin (XBT), and Ether (ETH):
-  - USD (e.g. KEEP/USD)
+  - USD (e.g. KEEP/USD): [Chart](https://www.kraken.com/en-us/prices/tbtc-price-chart/usd-us-dollar?interval=24h)
   - EUR (e.g. TBTC/EUR)
   - XBT (e.g. TBTC/XBT)
   - ETH (e.g. KEEP/ETH)
+  <p align="center">
+  <img width="400" alt="imagen" src="https://user-images.githubusercontent.com/73607532/100658267-87cf8080-332d-11eb-9dd0-2cb2d48482c5.png">
+</p>
 
 
 ### Balancer
