@@ -22,6 +22,10 @@ You can support the Keep Network, participate and earn rewards by operating foll
 Right now Keep Network and tBTC system is running on Ropsten Testnet.
 There are some very good guides to help you in the process of deploying both Nodes.
 
+?> List of all Testnet Contracts: [https://gist.github.com/knarz/b3b906bf8b3f7255b5dc90f96d1c0165](https://gist.github.com/knarz/b3b906bf8b3f7255b5dc90f96d1c0165)
+
+?> List of all Mainnet Contracts: [https://gist.github.com/knarz/034654b56096f99aa857bdaebe6c8710](https://gist.github.com/knarz/034654b56096f99aa857bdaebe6c8710) 
+
 In general, the installation always includes the same steps:
 - Create an [Infura](https://infura.io/) account and project (avoids running your own local Ethereum client, which is pretty big).
 - Create an Ethereum wallet, e.g. My Ether Wallet with a keystore which you then import to Metamask.
