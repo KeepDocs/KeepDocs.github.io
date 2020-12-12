@@ -27,7 +27,12 @@ There are some very good guides to help you in the process of deploying both Nod
 ?> List of all Mainnet Contracts: [https://gist.github.com/knarz/034654b56096f99aa857bdaebe6c8710](https://gist.github.com/knarz/034654b56096f99aa857bdaebe6c8710) 
 
 In general, the installation always includes the same steps:
-- Create an [Infura](https://infura.io/) account and project (avoids running your own local Ethereum client, which is pretty big).
+- Create an [Infura](https://infura.io/) account and project (avoids running your own local Ethereum client, which is pretty big). In fact you could use any of these [alternatives](https://ethereumnodes.com/) :
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/73607532/101987224-80836d80-3c71-11eb-861a-48db2f3021b6.png">
+</p>
+
+
 - Create an Ethereum wallet, e.g. My Ether Wallet with a keystore which you then import to Metamask.
 - Authorize the Keep contracts on the appropriate Keep dashboard (testnet now, mainnet later), get some testnet KEEP and ETH, and delegate ETH using the dashboard.
 - Get a Virtual Private Server (Amazon, Google Cloud, Azure, Vultr, Digital Ocean, Linode, and many others or even your own self-hosted server) running Ubuntu, install Docker.
