@@ -30,6 +30,9 @@ In this example are [27] connected peers.
 ## Common Errors and Warnings
 If you have connected peers then your node is up and running.
 
+!> @Nico186 made this excelent [document](https://docs.google.com/document/u/2/d/e/2PACX-1vRYtVyLSwuNBL9Xk-M1HeHloJ7MIGqwiEzsuXYnKHQqnSz2gfd2Q3czJeOzEferPKIr7GvIznQxsckb/pub) about interpreting KEEP Error and Warning Logs.
+
+
 On the other side, if you see CRITICAL or some WARNING messages, then maybe your node is not working properly.
 Let’s see some common examples and point in the right direction to solve them :
 
