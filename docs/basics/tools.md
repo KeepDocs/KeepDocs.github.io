@@ -54,7 +54,9 @@ Here is a indexed & curated list :
 
 ### All The Keeps
 tBTC System & Node Operators Control
-
+<p align="left">
+  <img width="100" src="https://user-images.githubusercontent.com/73607532/102134226-03a0f100-3e35-11eb-8827-79d071a6e617.png">
+</p>
 **Pythonmetaclass’ :** [Allthekeeps.com](https://allthekeeps.com/)
 - deposits: keeps track of all tBTC minted, with its associated TDT’s, size, state and collateral level
 - list of operators and keeps and deposits they’re securing
@@ -78,8 +80,10 @@ tBTC Deposits Tracking Tool
 
 ### Peeker TG Bot
 Node Operator Telegram Bot
-
-**Rdfbbx’s :** [Peeker Bot](https://keep-notifying-me.herokuapp.com/)
+<p align="left">
+  <img width="100" src="https://user-images.githubusercontent.com/73607532/102133740-55954700-3e34-11eb-9c00-9b107edc5682.png">
+</p>
+**Rdfbbx’s :** [Peeker Bot](https://t.me/keep_peeker_bot)
 - System for monitoring nodes implemented as a Telegram Bot
 - Allows operators supervise bonds, keeps, collateralization levels  and receive timely notifications of state changes
 <p align="center">
