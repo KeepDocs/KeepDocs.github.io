@@ -236,13 +236,13 @@ Node Operator Telegram Bot
 
 ### TBTC and KEEP explorer
 
-**NickG's :** [TBTC Explorer](https://keep-explorer.info/) 
+**NickG's :** [Keep-Explorer.info](https://keep-explorer.info/) 
 - Minted TBTC Exploration Site
 - view information about TBTC deposits on mainnet
 - shows detailed information about the deposit process
 - follow all the grants and KEEP transfers here
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/73607532/102134913-ec163800-3e35-11eb-8194-2e58a9f9f34f.png">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/102134913-ec163800-3e35-11eb-8194-2e58a9f9f34f.png">
 </p>
 
 ### Keep Stats
