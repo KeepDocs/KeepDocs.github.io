@@ -12,7 +12,7 @@ This section covers the following topics related to the Nodes Automated Monitori
 This article summarises the steps used to set up the monitoring on Keep Random Beacon node using Grafana, Prometheus, Prometheus Node Exporter, Google cAdvisor and Loki.
 
 <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/68167410/89043879-c537e900-d30e-11ea-84ad-dfbd47592d2f.png">
+  <img width="600" src="https://user-images.githubusercontent.com/68167410/89043879-c537e900-d30e-11ea-84ad-dfbd47592d2f.png">
 </p>
 
 
@@ -32,14 +32,17 @@ This article summarises the steps used to set up the monitoring on Keep Random B
 > Beats: lightweight, single-purpose data shippers that can send data from hundreds or thousands of machines to either Logstash or Elasticsearch.
 >
 <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/68167410/89001980-816ac280-d2c1-11ea-98f2-94e0481188fc.png">
+  <img width="600" src="https://user-images.githubusercontent.com/68167410/89001980-816ac280-d2c1-11ea-98f2-94e0481188fc.png">
 </p>
 
 
 ### Kubernetes Monitoring with Prometheus & Grafana
-- video that will help you set up monitoring using the Kubernetes cluster 
+- **Tabert's** video that will help you set up monitoring using the Kubernetes cluster 
 - https://www.youtube.com/watch?v=71oa9EKG-Cc
 
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/73607532/102139810-20412700-3e3d-11eb-8080-e62508df2cb5.png">
+</p>
 ---
 `Written & assembled by Keep Community.`
 `Contributors: Ramaruro, EstebanK`
