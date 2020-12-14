@@ -91,6 +91,17 @@ You can find the contract address [here](https://etherscan.io/address/0xC2509979
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097694-9aabc100-16ae-11eb-9b61-a8b80b38a1b8.png">
 </p>
 
+
+## Insure your TBTC
+### TBTC.Insure
+- **Ninja5's** website that allows you to purchase smart contract insurance for TBTC. 
+- It uses the yinsure.finance smart contracts to purchase insurance from Nexus Mutual in the form of a transferable ERC721 token without the need to complete any kyc.
+- https://tbtc.insure/
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/102145798-a6ae3680-3e46-11eb-9c51-73f1118bc3f0.png">
+</p>
+
+
 ## Play With TBTC
 ### tBTCzksync torch
 
