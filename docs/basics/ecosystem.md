@@ -40,7 +40,8 @@ You can find the contract address [here](https://etherscan.io/address/0xC2509979
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097684-73ed8a80-16ae-11eb-8b63-8aaaffba7e11.png">
 </p>
 
-- You can also deposit your Curve Tbtc LP token at [BadgerDAO TBTC serr](https://app.badger.finance/setts) for mining BADGER token.
+### Badger DAO
+- You can also deposit your Curve Tbtc LP token at [BadgerDAO TBTC Sett](https://app.badger.finance/setts) for mining BADGER token.
 
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/73607532/102146411-a3677a80-3e47-11eb-9a84-befc005775ed.png">
@@ -89,6 +90,7 @@ You can find the contract address [here](https://etherscan.io/address/0xC2509979
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097689-87005a80-16ae-11eb-82ea-891ba3a6c634.png">
 </p>
 
+### Harvest Finance
 - You can also deposit your sushi wbtc-tbtc lp token at [Harvest.Finance](https://harvest.finance/pool/fweth-sushi-wbtc-tbtc) for mining FARM token.
 
 <p align="center">
