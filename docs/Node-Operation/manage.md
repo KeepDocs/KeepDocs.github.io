@@ -57,25 +57,6 @@ Type: `sudo docker logs ecdsa --since 5m | grep "connected"`
 !> If running nodes on mainnet be sure to follow steps in [Mainnet Node Operation Section](https://estebank97.github.io/Keep-Node-Docs/#/Node-Operation/mainnet) and use [Community Tools](https://estebank97.github.io/Keep-Node-Docs/#/basics/tools) for node assistance. 
 
 
-## Undercollateralization and Liquidation
-
-There is a serious risk that due to relative price fluctuations of the ETH / BTC pair, your collateral (actually, the collateral of the Keep(s) that you have signed) is not sufficient and you run the risk of Liquidation.
-The process is detailed in the [tBTC System Design Document](https://docs.keep.network/tbtc/index.pdf), pages 19-20
-
-This article from Bison Trail, [Keep Active Management](https://bisontrails.co/keep-active-participation/), explains this Liquidation Process and lists several measures that can be taken to avoid this issue.
-
-Currently, the monitoring has to be manual, i.e. verification of ETH/BTC relative price fluctuations and additions of ETH colateral. 
-
-[Latenthero](https://discord.com/channels/590951101600235531/590951101600235533/737707953221664779) created a [Telegram Bot](https://t.me/keep_alert_bot) for alerting when the ETH available for bonding is below a user set threshold. The code for the bot can be seen and eventually repurposed [here](https://github.com/latenthero/keep-alert-bot). It is available for Testnet as of August 2020.
-
-This document from Experience#2376 provides more details with references to the software code involved: [tBTC risk - liquidation and slashing details](https://hackmd.io/OzIeyWcfTVO69zIF67XCkg). This graph from the document explains the risks well.
-<p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/68167410/88967178-0975ab80-d273-11ea-9696-15f2ce8995c5.png">
-</p>
-
-h/t ssh
-
-
 ## Node Updates
 
 From time to time the Keep Development Team will issue new Docker Images for both Nodes and update the relevant Ethereum Contracts.
