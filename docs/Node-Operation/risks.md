@@ -3,27 +3,39 @@
 Operating Keep Nodes imply risks, as there are Collateralization and Availability requirements that must be met to avoid being penalized.
 This section covers topics related to understanding and mitigating the risks of operating a Keep Poduction System.
 
-**Content of this Section**
-- [Main Risks for Operating Keep Nodes](https://github.com/Estebank97/Keep-Node-Operation/wiki/Risk-Mitigation-for-Node-Operators#main-risks-for-operating-keep-nodes)
-- [Undercollateralization Prevention](https://github.com/Estebank97/Keep-Node-Operation/wiki/Risk-Mitigation-for-Node-Operators#undercollateralization-prevention) 
-- [High Availability](https://github.com/Estebank97/Keep-Node-Operation/wiki/Risk-Mitigation-for-Node-Operators#main-risks-for-operating-keep-nodes)
-    - [General Considerations from the Keep Team](https://github.com/Estebank97/Keep-Node-Operation/wiki/Risk-Mitigation-for-Node-Operators#general-considerations-from-the-keep-team)
-    - [Kubernetes Based Deployment](https://github.com/Estebank97/Keep-Node-Operation/wiki/Risk-Mitigation-for-Node-Operators#kubernetes-based-deployment)
 
 ## Main Risks for Operating Keep Nodes
-From the currrent understanding and Operation of the Keep System in Testnet, we can see two main risks for the Operator to lose a portion or all of the funds staked to support the tBTC Bridge:
+From the currrent understanding and Operation of the Keep System, we can see two main risks for the Operator to lose a portion or all of the funds staked to support the tBTC Bridge:
 * Undercollateralization and Liquidation
 * Node Downtime
 
-The current understanding indicates that the Undercollateralization is a more acute problem than the Node Downtime. Uptime for Nodes in Testnet is high and other than upgrades to the software or issue with the VPS provider, it doesn't seem a high risk to the operation. It can also be mitigated with a redundant node installation managed with Kubernets (see below).
+The current understanding indicates that the Undercollateralization is a more frequent problem than the Node Downtime. Uptime for Nodes in Testnet is high and other than upgrades to the software or issue with the VPS provider, it doesn't seem a high risk to the operation. It can also be mitigated with a redundant node installation managed with Kubernets (see below). If technical operation is not your thing, you could always talk to [staking providers](https://keepdocs.github.io/#/stakingdoc/stakingoptions?id=staking-with-a-provider) who can take care of this.
 However, Undercollateralization seems a bigger problem as it is less controllable and there is no automated way to protect this situation yet other than manual intervention.
+
+?> These risks are well explained on these three reports written by community members Ssh, Kferret and State. You can find them on the [Community Tools-Risks section](https://keepdocs.github.io/#/basics/tools?id=node-running-risks).
+
+This graph from the Ssh's document explains the risks well.
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/68167410/88967178-0975ab80-d273-11ea-9696-15f2ce8995c5.png">
+</p>
+
+
 
 
 ## Undercollateralization Prevention
-We discuss this situation in detail in this same document, in the [Undercollateralization and Liquidation](https://github.com/Estebank97/Keep-Node-Operation/wiki/Manage-your-Nodes#undercollateralization-and-liquidation) section.
-The main reason for this problem is the Volatility in the ETH/BTC price relationship, bringing relative price of ETH to BTC down. Alerts need to be enabled to monitor this relation to then manually add ETH for collateral.
+There is a serious risk that due to relative price fluctuations of the ETH / BTC pair, your collateral (actually, the collateral of the Keep(s) that you have signed) is not sufficient and you run the risk of Liquidation.
+The process is detailed in the [tBTC System Design Document](https://docs.keep.network/tbtc/index.pdf), pages 19-20
 
-We expect this to be a significant problem and additional automation available from the Keep Dashboard should be enabled, for example, provide reserve collateral that can be used as needed. No plans for this functionality are available as of August 2020.
+
+This article from Bison Trail, [Keep Active Management](https://bisontrails.co/keep-active-participation/), explains this Liquidation Process and lists several measures that can be taken to avoid this issue.
+
+
+!> Alerts need to be enabled to monitor this relation to then manually take action to close deposits and avoid liquidation. Community developed tools like [All The Keeps site](https://keepdocs.github.io/#/basics/tools?id=all-the-keeps) and [Peeker TG Bot](https://keepdocs.github.io/#/basics/tools?id=peeker-tg-bot) help you monitor open deposits on your nodes.
+
+
+!> And have always TBTC available to be able to close your deposits when needed.
+
+> Keep Team expressed additional automation features for collateral Eth increase or deposit redemption when needed for v2 of Keep Dashboard. We expect these will help manage better these risks.
 
 
 ## High Availability
