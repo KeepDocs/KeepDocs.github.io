@@ -36,35 +36,9 @@ This article summarises the steps used to set up the monitoring on Keep Random B
 </p>
 
 
-## Discord and Telegram Bots to get Keep Network Stats
-There are several Bots that are being developed to be used in the [Keep Discord Channel](https://discord.com/channels/590951101600235531/709789601459339326). This is work in progress as of end of July 2020, there should be updates in the coming months.
-
-[KEEP BOT](https://discord.com/channels/590951101600235531/709789601459339326/735597811613302855) by StateLayer 
-
-List of bot commands 
-Keep Network Bot (StateLayer)
-- !keep all : Show all network stats
-- !keep price: $KEEP price
-- !keep volume: KEEP 24h volume 
-- !keep stakers : number of stakers on the network 
-- !keep holders: Amount of holders of KEEP 
-- !keep staked: Amount of KEEP staked in the random beacon contract 
-- !keep stakedropreserve: Amount of KEEP in the stakedrop reserve 
-- !keep liquidityreserve: Amount of KEEP in the liquidity reserve 
-- !keep beacontransactions: Total number of random beacon transactions
-- !keep exchanges : show keep balances in exchanges
-- !keep wen ICO? : (Hint, never)
-
-Node Watcher (StateLayer)
- (possible to DM bot!)
-- !watcher summary youraddress : various stats about your signing group
-- !watcher ethbonded youraddress : Get the balance of ethbonded by your group
-- !watcher collateralratio youraddress : collateral ratio of your group
-- !watcher help : display available commands
-At "youraddress", put the ethereum adress of your signing group.
-
-tBTC Stats (pantsme)
-Available commands: !supply, !txs, !holders, !tdt, !volume, !help
+### Kubernetes Monitoring with Prometheus & Grafana
+- video that will help you set up monitoring using the Kubernetes cluster 
+- https://www.youtube.com/watch?v=71oa9EKG-Cc
 
 ---
 `Written & assembled by Keep Community.`
