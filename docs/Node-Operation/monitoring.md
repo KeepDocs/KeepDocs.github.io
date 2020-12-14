@@ -43,6 +43,8 @@ This article summarises the steps used to set up the monitoring on Keep Random B
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/73607532/102139810-20412700-3e3d-11eb-8080-e62508df2cb5.png">
 </p>
+
+
 ---
 `Written & assembled by Keep Community.`
 `Contributors: Ramaruro, EstebanK`
