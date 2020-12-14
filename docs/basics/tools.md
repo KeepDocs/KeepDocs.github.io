@@ -52,7 +52,7 @@ Here is a indexed & curated list :
   <img width="400" src="https://user-images.githubusercontent.com/68087535/94491079-e2c5e980-01bd-11eb-96ad-e5d2ad1707c7.png">
 </p>
 
-### Allthekeeps.com
+### All The Keeps
 tBTC System & Node Operators Control
 
 **Pythonmetaclass’ :** [Allthekeeps.com](https://allthekeeps.com/)
@@ -76,6 +76,15 @@ tBTC Deposits Tracking Tool
   <img width="400" src="https://user-images.githubusercontent.com/73607532/98039304-42d32f80-1dfd-11eb-8bb6-576a1be0c04a.png">
 </p>
 
+### Peeker TG Bot
+Node Operator Telegram Bot
+
+**Rdfbbx’s :** [Peeker Bot](https://keep-notifying-me.herokuapp.com/)
+- System for monitoring nodes implemented as a Telegram Bot
+- Allows operators supervise bonds, keeps, collateralization levels  and receive timely notifications of state changes
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/73607532/102131625-3ea12580-3e31-11eb-84c3-bc9ef523c39e.png">
+</p>
 
 ### Node Running Risks
 
@@ -87,7 +96,7 @@ tBTC Deposits Tracking Tool
 </p>
 
 
-**StateLayer's :** [Keep stakedrop risks and mitigation strategiess](https://hackmd.io/@LayerState/KeepStakedropRisks)
+**State's :** [Keep stakedrop risks and mitigation strategiess](https://hackmd.io/@LayerState/KeepStakedropRisks)
 - different ways you could lose the ETH you staked
 - different ways you could mitigate these risks
 
