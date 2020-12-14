@@ -409,15 +409,6 @@ Report
 
 ## KEEP Token Related Sites
 
-### Keep Explorer
-**[Keep Explorer](https://keep-explorer.herokuapp.com/keep)**
-- Keep Token Exploration tool
-- lets us see all sort of data: 
-- Keep Tokens, grants, holders, transactions
-<p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/68087535/94489123-49e19f00-01ba-11eb-9d10-046318cf5418.png">
-</p>
-
 ### Keepprice live Site
 
 
