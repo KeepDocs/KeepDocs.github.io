@@ -443,7 +443,7 @@ KEEP tokens swapping tool
 - Decentralized: Anyone can provide liquidity and the client will automatically pick the cheapest provider
 
 <p align="center">
-  <img width="400" src="https://github.com/corollari/tbtcswaps/blob/master/images/screenshot.png">
+  <img width="400" src="https://user-images.githubusercontent.com/73607532/102112480-836b9300-3e16-11eb-878f-7b2c3d6c2d52.png">
 </p>
 
 
