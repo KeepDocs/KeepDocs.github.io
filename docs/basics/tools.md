@@ -467,6 +467,23 @@ Random Number Creation Tool
   <img width="400" src="https://user-images.githubusercontent.com/68087535/94489740-68946580-01bb-11eb-87fe-4b38e39f9263.png">
 </p>
 
+### The Only Chance
+Random Number Creation Tool
+
+
+**Vitaliy Baranocivh's :**[keeprandom.top](https://the-only-chance.com/)
+- Random entries dapp in Keep.Network that works on Random Beacon 
+- The premise is simple, you are choosing range of numbers, connecting to metamask and then trustlessly and transparently randomising number in this range with the help of Random Beacon nodes and receiving proof of that
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/73607532/102144823-e96f0f00-3e44-11eb-9fce-8338cbddcfdf.png">
+</p>
+
+
+
+
+
+
+
 ---
 ---
 
