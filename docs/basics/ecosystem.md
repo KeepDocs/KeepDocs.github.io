@@ -32,7 +32,7 @@ You can trade TBTC at **Uniswap**, **Curve**, **Balancer**, **Sushiswap** now an
 
 [Curve TBTC metapool](https://www.curve.fi/tbtc/). 
 
-You can mine CRV at Curve TBTC pool now and there will be liquidity incentives (KEEP rewards) for this pool too. 
+You can mine CRV at Curve TBTC pool now and earn KEEP liquidity incentives for this pool too. 
 
 You can find the contract address [here](https://etherscan.io/address/0xC25099792E9349C7DD09759744ea681C7de2cb66).
 
@@ -40,7 +40,11 @@ You can find the contract address [here](https://etherscan.io/address/0xC2509979
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097684-73ed8a80-16ae-11eb-8b63-8aaaffba7e11.png">
 </p>
 
+- You can also deposit your Curve Tbtc LP token at [BadgerDAO TBTC serr](https://app.badger.finance/setts) for mining BADGER token.
 
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/102146411-a3677a80-3e47-11eb-9a84-befc005775ed.png">
+</p>
 
 
 
@@ -92,7 +96,13 @@ You can find the contract address [here](https://etherscan.io/address/0xC2509979
 </p>
 
 
-## Insure your TBTC
+
+
+
+
+---
+
+## Insure  TBTC
 ### TBTC.Insure
 - **Ninja5's** website that allows you to purchase smart contract insurance for TBTC. 
 - It uses the yinsure.finance smart contracts to purchase insurance from Nexus Mutual in the form of a transferable ERC721 token without the need to complete any kyc.
