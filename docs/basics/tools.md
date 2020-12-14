@@ -57,6 +57,8 @@ tBTC System & Node Operators Control
 <p align="left">
   <img width="100" src="https://user-images.githubusercontent.com/73607532/102134226-03a0f100-3e35-11eb-8827-79d071a6e617.png">
 </p>
+
+
 **Pythonmetaclass’ :** [Allthekeeps.com](https://allthekeeps.com/)
 - deposits: keeps track of all tBTC minted, with its associated TDT’s, size, state and collateral level
 - list of operators and keeps and deposits they’re securing
@@ -83,6 +85,8 @@ Node Operator Telegram Bot
 <p align="left">
   <img width="100" src="https://user-images.githubusercontent.com/73607532/102133740-55954700-3e34-11eb-9c00-9b107edc5682.png">
 </p>
+
+
 **Rdfbbx’s :** [Peeker Bot](https://t.me/keep_peeker_bot)
 - System for monitoring nodes implemented as a Telegram Bot
 - Allows operators supervise bonds, keeps, collateralization levels  and receive timely notifications of state changes
@@ -230,15 +234,15 @@ Node Operator Telegram Bot
 </p>
 
 
-### TBTC explorer
+### TBTC and KEEP explorer
 
 **NickG's :** [TBTC Explorer](https://keep-explorer.info/) 
 - Minted TBTC Exploration Site
 - view information about TBTC deposits on mainnet
 - shows detailed information about the deposit process
-- provides search deposits by address feature, view a transfer history
+- follow all the grants and KEEP transfers here
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/68087535/94488764-9d9fb880-01b9-11eb-8c87-f6c129f043b3.png">
+  <img width="400" src="https://user-images.githubusercontent.com/73607532/102134913-ec163800-3e35-11eb-8194-2e58a9f9f34f.png">
 </p>
 
 ### Keep Stats
