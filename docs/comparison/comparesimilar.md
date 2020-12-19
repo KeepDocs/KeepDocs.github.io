@@ -33,7 +33,7 @@ Note that all Network Staking Options show % Rewards in Nominal terms, i.e. if y
 
 | **Application/Blockchain**| **Technology**|**Staking Requirements**|**Token**|**ROI Expectations**|
 | --- | --- | --- | --- | --- | 
-| tBTC | Random Beacon, ECDSA| Random Beacon & ECDSA: 80,000* KEEP + 150%+ of the Minted BTC| Random Beacon: [KEEP](https://www.coingecko.com/en/coins/keep-network), ECDSA: ETH initially, Later KEEP | See above for Key ROI considerations. Very Strong incentives during Stakedrop to participate and bootstrap the Network| 
+| tBTC | Random Beacon, ECDSA| Random Beacon & ECDSA: 70,000* KEEP + 150%+ of the Minted BTC| Random Beacon: [KEEP](https://www.coingecko.com/en/coins/keep-network), ECDSA: ETH initially, Later KEEP | See above for Key ROI considerations. Very Strong incentives during Stakedrop to participate and bootstrap the Network| 
 |[PolkaDot](https://wiki.polkadot.network/docs/en/learn-staking)|  [Validators](https://wiki.polkadot.network/docs/en/maintain-guides-how-to-validate-polkadot) (Node Runners), [Nominators](https://wiki.polkadot.network/docs/en/maintain-guides-how-to-nominate-polkadot) (Passive Staking) | Variable for Validators and Nominators| [DOT](https://www.coingecko.com/en/coins/polkadot)| ~8.5% (Validator) ~8.14% (Delegator), check [Current Rewards](https://www.stakingrewards.com/earn/polkadot) |
 |[Kusama](https://docs.google.com/forms/d/e/1FAIpQLSewhltQOcmkIlE7Wftn0NTVuyEs6Wk8Qpx6ssCAo2BO4oQH0w/viewform)|  Validators (Node Runners) and Nominators (Passive Staking) | 350 KSM| [KSM](https://www.coingecko.com/en/coins/kusama)|~3.82% (Validator) ~3.62% (Delegator), check [Current Rewards](https://www.stakingrewards.com/earn/kusama)  |
 |[Cosmos](https://hub.cosmos.network/master/hub-overview/overview.html#the-atom)|  [Validators](https://hub.cosmos.network/master/validators/overview.html#validators-overview) (Node Runners), [Delegators](https://hub.cosmos.network/master/delegators/delegator-guide-cli.html#delegator-guide-cli) (Passive Staking)| Up to 300 Validators, Top 100 by Stake are chosen, Variable for Delegators| [ATOM](https://www.coingecko.com/en/coins/cosmos)| ~9.11% Validator, 8.38% Delegators, check [Current Rewards](https://www.stakingrewards.com/earn/cosmos)  | 
@@ -43,7 +43,7 @@ Note that all Network Staking Options show % Rewards in Nominal terms, i.e. if y
 >This article also does a comparison between Keep Network and [Cosmos Validator](https://keeptools.org/comparison/cosmos-validator) / [RenVM Darknode](https://keeptools.org/comparison/renvm-darknode) and includes additional technical aspects.
 
 
-(*) Running Keep Network's Node requires currently an 80.000 KEEP stake. 
+(*) Running Keep Network's Node requires currently an 70.000 KEEP stake. 
 
 This requirements will reduce over time [(Source)](https://hackmd.io/@protocollayer/BkUBl7zIw):
 
