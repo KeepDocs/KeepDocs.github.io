@@ -1,16 +1,9 @@
-<!-- _coverpage.md -->
-<!--[a ver](assets/images/keepdocgraf.jpg)>
-<!-- [logo](https://miro.medium.com/max/1400/1*a1rZEF1awSz0wsKdL9SuGw.jpeg)-->
-![logok](https://user-images.githubusercontent.com/68087535/97370162-2713da80-188d-11eb-9a2a-4a48caac102b.png)
+![Keep_Brand_Web-portada](assets/images/KeepDocsMain.png)
 
-> Keep Network
-> Community Curated Documentation
+> Resources for Stakers & Node Operators 
 
-- **Staking in Keep Network**
-- Overview, Rewards, Economics, Community Tools, Slashing & Liquidation
-- All The Keeps Guide for TBTC Deposits/Redemptions control
-- Node Deployment, Operation, Troubleshooting & Risk Mitigation
+- [:uk:](https://keepdocs.github.io/) / [:ru:](https://keepdocs.github.io/KeepDocsRussia/) / [:it:](https://keepdocs.github.io/KeepDocsItalia/) / [:de:](https://keepdocs.github.io/KeepDocsGerman/) / [:fr:](https://keepdocs.github.io/KeepDocsFrance/) / [:indonesia:](https://keepdocs.github.io/KeepDocsIndonesia/) / [:tr:](https://keepdocs.github.io/KeepDocsTurkish/) / [:ukraine:](https://keepdocs.github.io/KeepDocsUkraine/)
+- Scroll down to get started
 
 
-[GitHub](https://github.com/KeepDocs/KeepDocs.github.io/)
-[Get Started](basics/start.md)
+![Back](assets/images/KeepDocsSide.jpg)
