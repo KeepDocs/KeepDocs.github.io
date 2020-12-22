@@ -22,12 +22,6 @@ Staked tokens are delegated by a KEEP token holder to an operator address, who p
 
 
 
-
-
-
-
----
-
 <p style="text-align: left; width:49%; display: inline-block;"><a href="/#/basics/start">Previous</a></p>
 <p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/basics/intro">Next</a></p>
 
