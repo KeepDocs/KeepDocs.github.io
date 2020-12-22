@@ -31,9 +31,9 @@ Staked tokens are delegated by a KEEP token holder to an operator address, who p
 <p align="right">
   [Next Chapter](basics/intro.md)
 </p>
-<div id="textbox">
-  <p class="alignleft">Text on the left.</p>
-  <p class="alignright">Text on the right.</p>
+<div class="sidebar" style="width: 200px;"> 
+  <p style="float: left;">Prev</p> 
+  <p style="float: right;">Next</p> 
 </div>
 
 
