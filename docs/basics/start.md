@@ -47,7 +47,7 @@ table {
 </head>
 <body>
 
-<table style="width:100%"> 
+<table style="width:50%"> 
   <tr>
     <td>Previous</td>
     <td>Next</td>
@@ -56,6 +56,10 @@ table {
 </table>
 </body>
 </html>
+<div style="background-color:black;color:white;padding:20px;">
+  <h2>London</h2>
+  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+</div>
 
 ---
 `Sourced from Keep Team's official documentation and edited & completed by community.`[Source](https://keep-network.gitbook.io/staking-documentation/)
