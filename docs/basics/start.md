@@ -33,33 +33,14 @@ Staked tokens are delegated by a KEEP token holder to an operator address, who p
 </p>
 
 
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  padding: 2px;
-}
-table {
-  border-spacing: 150px;
-}
-</style>
-</head>
-<body>
 
-<table style="width:50%"> 
-  <tr>
-    <td>Previous</td>
-    <td>Next</td>
-  </tr>
-  
-</table>
-</body>
-</html>
-<div style="background-color:black;color:white;padding:20px;">
+<div style="background-color:blue;color:white;padding:20px;">
   <h2>London</h2>
   <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
 </div>
+
+<p style="text-align: left; width:49%; display: inline-block;">LEFT</p>
+<p style="text-align: right; width:50%;  display: inline-block;">RIGHT</p>
 
 ---
 `Sourced from Keep Team's official documentation and edited & completed by community.`[Source](https://keep-network.gitbook.io/staking-documentation/)
