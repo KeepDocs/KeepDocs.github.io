@@ -38,10 +38,10 @@ Staked tokens are delegated by a KEEP token holder to an operator address, who p
 <style>
 table, th, td {
   border: 1px solid black;
-  padding: 50px;
+  padding: 2px;
 }
 table {
-  border-spacing: 15px;
+  border-spacing: 150px;
 }
 </style>
 </head>
