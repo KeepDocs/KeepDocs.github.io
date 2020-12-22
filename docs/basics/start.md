@@ -35,7 +35,12 @@ Staked tokens are delegated by a KEEP token holder to an operator address, who p
   <p style="float: left;">Prev</p> 
   <p style="float: right;">Next</p> 
 </div>
-
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+  </tr>
+</table>
 
 ---
 `Sourced from Keep Team's official documentation and edited & completed by community.`[Source](https://keep-network.gitbook.io/staking-documentation/)
