@@ -74,6 +74,9 @@ Random Beacon is the other part of the network: a decentralized random selection
 - [TBTC: A New Sidechain Design for Bitcoin](https://insights.deribit.com/market-research/a-new-sidechain-design-for-bitcoin/) by Su Zhu in Deribit Insights
 - Images are from SpaceWalker (Discord Design Channel), [Ilias Hatzis](https://medium.com/@iliashatzis) (from his story), Keep Team (Discord Design Channel).
 
+<p style="text-align: left; width:49%; display: inline-block;"><a href="/#/basics/start">Previous</a></p>
+<p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/basics/ecosystem">Next</a></p>
+
 ---
 `Written & assembled by Keep Community.`
 `Contributors: Ramaruro, EstebanK`
