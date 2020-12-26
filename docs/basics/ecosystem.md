@@ -28,6 +28,25 @@ You can trade TBTC at **Uniswap**, **Curve**, **Balancer**, **Sushiswap** now an
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097667-38eb5700-16ae-11eb-8879-5b333e1b6dc6.png">
 </p>
 
+### New KEEP and TBTC liquidity rewards on Uniswap ###
+
+https://dashboard.keep.network/liquidity
+
+Until end January 2021 :
+- TBTC/ETH LPs will earn 50k KEEP per week, 
+- KEEP/ETH LPs will earn 150k KEEP per week,
+- KEEP/TBTC — Matt's hodler's pool — will earn 200k KEEP per week.
+
+
+Great opportunity for would-be stakers who haven't quite saved up a min stake. You can enter these reward pools with as little as 1 KEEP and enough ETH for gas, and start earning up to operate a node :)
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/103155719-fe229f80-4780-11eb-8f27-1765210dcb97.png">
+</p>
+
+**Keep an eye for new updates and announcments from the team on the [Discord Server](https://discord.gg/mQ8sFbgybD).**
+
+
 ### Curve
 
 [Curve TBTC metapool](https://www.curve.fi/tbtc/). 
@@ -97,7 +116,8 @@ You can find the contract address [here](https://etherscan.io/address/0xC2509979
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097694-9aabc100-16ae-11eb-9b61-a8b80b38a1b8.png">
 </p>
 
-
+---
+## COLLATERAL
 
 
 
@@ -145,6 +165,12 @@ It's an idea for a future TBTC Vault, using TBTC as collateral, borrowing stable
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97591768-eb1e7800-1a3a-11eb-884d-b430c86db2f3.png">
 </p>
+
+
+
+<p style="text-align: left; width:49%; display: inline-block;"><a href="/#/basics/intro">Previous</a></p>
+<p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/basics/tools">Next</a></p>
+
 
 ---
 
