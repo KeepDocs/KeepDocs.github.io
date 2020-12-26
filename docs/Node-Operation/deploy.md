@@ -56,6 +56,15 @@ It's really technical thorough explanation of the node setup, but it's not meant
 
 ## Absolute Beginner Guides
 
+
+- **Alterkhan's :** [Most simple guide of how to install both Random Beacon and ECDSA Keep Network nodes on one VPS ](https://steemit.com/keepnetwork/@coinsniperx/the-most-simple-guide-of-how-to-install-both-random-beacon-and-ecdsa-keep-network-nodes-on-one-vps)
+   - Visual step-bys-step guide to install your nodes
+   - very complete, includes all steps needed
+<p align="center">
+  <img width="400" src="https://steemitimages.com/1280x0/https://cdn.steemitimages.com/DQmTWqZawot34WSqesHKhUJgrrr55tXUr9YDCtd7sND7i2U/nodes%20guide.png">
+</p>
+
+
 - **Nick Grego's** [Step-by-step guide for installing both ECDSA & Beacon Keep Network nodes on VPS with 100$ voucher](https://medium.com/@nickgrego/step-by-step-guide-for-installing-both-ecdsa-beacon-nodes-on-vps-with-100-voucher-db930ab2a667)
 > This is step by step tutorial for newcomers to launch their first nodes in Keep Network with completely free VPS server and with minimal use of command line. To avoid any sort of errors, we would use the most user-friendly instruments to successfully complete this task fast and without any kind of mistakes.
 
@@ -67,8 +76,21 @@ The other well known Beginner Guide, also with easy to follow screenshots explan
 
 - **JackRemix'** [The absolute beginner’s guide to Playing for Keeps](https://medium.com/@jack.baldwin/the-absolute-beginners-guide-to-playing-for-keeps-aea9ab32f6e8) is a newer **really impressive** guide, with every step well explained !
 
+
+
+
+
 ## Other Guides
 
+-  **kferret’s :** [Keeptools.org/](https://keeptools.org/)
+   - Excelent utilities & tools site which includes:
+   - Automated config.toml generation 
+   - Automated ecdsa & random beacon dockers run command
+   - info about faucets, contracts & repos
+   - with testnet and mainnet information
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94492232-346f7380-01c0-11eb-8e61-5f641c6d80de.png">
+</p>
 - **Alex Novy's** [Run Random Beacon in KEEP Network Testnet](https://medium.com/@novysf/run-a-keep-network-testnet-node-37096946af35)
 
 For this guide you should have already hired an VPS.
@@ -81,6 +103,14 @@ In his excellent guides, Chris relies on deploying a local Ethereum Client, so h
 
 Afmsavage, aka Pantsme#2124 on Discord, developed this guide as a walkthrough to create Keep-ECDSA node for either mainnet or testnet, very handy to spot main differences between both deployments. It asumes that you already have your prep work done, meaning VPS running Linux, Infura, Wallet and Grant/Authorization steps fulfilled.
 
+
+- **ИльяBazilik's :** [1click-keep.com](http://1click-keep.com/)
+   - This web application allows you to run a KEEP node on a newly created server
+   - without using the console and without having to go to your server!
+   - should have completed previous infura and wallet steps (check Deploy your nodes section)
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/68087535/94489471-e3a94c00-01ba-11eb-9c8e-e89f2779d3dc.png">
+</p>
 - **Papyasha's** [Deploy Edcsa and Random Beacon Nodes](https://gist.github.com/papyasha/49925cf882545dada27b3f3fb7f48304).
 
 It asumes that you already have your prep work done, meaning VPS running Linux, Infura, Wallet and Grant/Authorization steps fulfilled.
