@@ -213,6 +213,14 @@ NOTE: there is a disincentive to return a signature, as the caller must pay for 
 `REDEEMED` or 
 `LIQUIDATED`
 
+
+---
+
+<p style="text-align: left; width:49%; display: inline-block;"><a href="/#/basics/ecosystem">Previous</a></p>
+<p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/reasons/reasons">Next</a></p>
+
+
+
 ---
 `ATK is a creation of PythonMetaClass`[Source](https://allthekeeps.com/about)
 
