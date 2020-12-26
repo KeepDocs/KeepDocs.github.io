@@ -14,7 +14,7 @@ or, How to make 200% APY on your ETH"](https://blog.keep.network/a-new-rewards-m
 ## Long story short 
 **Since this is a decentralized network of nodes, this means active staking - you would need 3 things :**
 - Run a node (by yourself or with a staking provider).
-- 70k KEEP token for staking (which will be lower over time).
+- 70k KEEP token for staking (which will be lower over [time](https://staking.keep.network/about-staking/staking-economics#how-to-get-keep)).
 - any amount of ETH for bonding.
 
 **Down the road, soon to be announced, there will be :**
