@@ -91,6 +91,8 @@ The other well known Beginner Guide, also with easy to follow screenshots explan
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/68087535/94492232-346f7380-01c0-11eb-8e61-5f641c6d80de.png">
 </p>
+
+
 - **Alex Novy's** [Run Random Beacon in KEEP Network Testnet](https://medium.com/@novysf/run-a-keep-network-testnet-node-37096946af35)
 
 For this guide you should have already hired an VPS.
@@ -111,6 +113,8 @@ Afmsavage, aka Pantsme#2124 on Discord, developed this guide as a walkthrough to
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/68087535/94489471-e3a94c00-01ba-11eb-9c8e-e89f2779d3dc.png">
 </p>
+
+
 - **Papyasha's** [Deploy Edcsa and Random Beacon Nodes](https://gist.github.com/papyasha/49925cf882545dada27b3f3fb7f48304).
 
 It asumes that you already have your prep work done, meaning VPS running Linux, Infura, Wallet and Grant/Authorization steps fulfilled.
