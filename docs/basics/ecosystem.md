@@ -1,6 +1,7 @@
 # TBTC Ecosystem
 ## Mint TBTC
-### Official TBTC minting page : https://dapp.tbtc.network/deposit
+### Official TBTC minting page
+https://dapp.tbtc.network/deposit
 
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097675-62a47e00-16ae-11eb-8dd9-679f83bfa704.png">
@@ -14,7 +15,9 @@
 
 
 
-### JellySwap: https://app.jelly.market/swap/BTC-TBTC 
+### JellySwap 
+
+https://app.jelly.market/swap/BTC-TBTC 
 
 - You can swap between native BTC and TBTC in any amount desired, here you are not limited by the TBTC defined sizes. 
 - For example if you want to transfer 2.5 BTC you would need 3 transactions in TBTC Dashboard and only one here.
@@ -32,7 +35,7 @@
 - Check Dmytro's guide for mints on Coinlist [here](https://hardcorecoin.medium.com/how-to-mint-btc-to-tbtc-using-coinlist-guide-7f7db028fec5)
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/73607532/103155989-0e3b7e80-4783-11eb-8503-a4d7c286dfb3.png">
+  <img width="550" src="https://user-images.githubusercontent.com/73607532/103155989-0e3b7e80-4783-11eb-8503-a4d7c286dfb3.png">
 </p>
 
 
@@ -57,9 +60,12 @@ You can trade TBTC at **Uniswap**, **Curve**, **Balancer**, **Sushiswap** now an
 https://dashboard.keep.network/liquidity
 
 Until end January 2021 :
-- TBTC/ETH LPs will earn 50k KEEP per week, 
-- KEEP/ETH LPs will earn 150k KEEP per week,
-- KEEP/TBTC — Matt's hodler's pool — will earn 200k KEEP per week.
+- [TBTC/ETH](https://info.uniswap.org/pair/0x854056fd40c1b52037166285b2e54fee774d33f6) LPs will earn 50k KEEP per week, 
+- [KEEP/ETH](https://info.uniswap.org/pair/0xe6f19dab7d43317344282f803f8e8d240708174a) LPs will earn 150k KEEP per week,
+- [KEEP/TBTC](https://info.uniswap.org/pair/0x38c8ffee49f286f25d25bad919ff7552e5daf081) — Matt's hodler's pool — will earn 200k KEEP per week.
+- Steps:
+1) To start earning rewards, deposit in the appropriate Uniswap pools
+2) visit the dashboard liquidity page to lock your LP tokens.
 
 
 Great opportunity for would-be stakers who haven't quite saved up a min stake. You can enter these reward pools with as little as 1 KEEP and enough ETH for gas, and start earning up to operate a node :)
@@ -113,7 +119,7 @@ You can find the contract address [here](https://etherscan.io/address/0xC2509979
   - XBT (e.g. TBTC/XBT)
   - ETH (e.g. KEEP/ETH)
   <p align="center">
-  <img width="400" alt="imagen" src="https://user-images.githubusercontent.com/73607532/100658267-87cf8080-332d-11eb-9dd0-2cb2d48482c5.png">
+  <img width="450" alt="imagen" src="https://user-images.githubusercontent.com/73607532/100658267-87cf8080-332d-11eb-9dd0-2cb2d48482c5.png">
 </p>
 
 
@@ -143,8 +149,51 @@ You can find the contract address [here](https://etherscan.io/address/0xC2509979
 ---
 ## COLLATERAL
 
+### Cream
+https://app.cream.finance/
+CREAM has approved recently TBTC as a Lending/Borrowing Collateral Asset in this [Governance Vote](https://snapshot.page/#/cream/proposal/QmPiVqdEXUKguQPiTgefE6S4A4KqoYBfM7q5v9hrZVMm23). Plan is that TBTC is available in the next weeks.
+
+This is the first platform that will allow to use TBTC as a collateral for lending/borrowing and increases the utility of TBTC in a big way.
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/73607532/103156480-aa678480-4787-11eb-9eeb-c64271d59d61.png">
+</p>
+
+**Some Use Cases for TBTC in CREAM:**
+- Deposit TBTC
+   - Earn interest on the TBTC deposit
+   - Use it as Collateral to borrow DAI and put into some DEGEN farm to get the spread between the TBTC interest earned, the DAI interest paid and the farmed gains.
+   - Use it as Collateral to borrow CRETH2, which is the ETH2 (yield bearing) version of ETH, used for staking in validators for ETH2. Earn the difference.
+   - For extra risk (NOT A RECOMMENDATION): Deposit TBTC, borrow some Asset that you expect to go down in value, sell it, buy back at lower price (i.e. shorting that Asset)
+- Borrow TBTC
+   - Deposit DAI and borrow TBTC to redeem a KEEP at risk of Liquidation vs buying TBTC on the market if there is a big price slippage; return TBTC when you can mint back
+
+**Some quick history on CREAM:**
+It started in August as a Lending Platform, as a Fork of Compound.
+They recently announced a Collaboration Yearn, which may increase the utility of the CREAM platform: (https://medium.com/iearn/yearn-cream-v2-merger-e9fa6c6989b4)
+
+CREAM differentiates vs Compound and AAVE by focusing on Long Tail Assets, currently 30+ Assets
 
 
+### Maker
+- [Maker proposal of adding TBTC as collateral](https://forum.makerdao.com/t/tbtc-proposal-for-collateral-onboarding-tbtc/2328)
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/58348113/97590690-d4c3ec80-1a39-11eb-8d12-e10d05e21f4b.png">
+</p>
+
+- MakerDAO has been doing a lot of due diligence and should be onboarded soon.
+- [Detailed analysis](https://forum.makerdao.com/t/tbtc-erc20-token-smart-contract-technical-assessment/5399) was made in the forum on the TBTC token and its contracts: 
+
+
+### Aave
+- [AAVE proposal of adding TBTC](https://governance.aave.com/t/proposal-add-support-for-tbtc/575)
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/58348113/97590921-1359a700-1a3a-11eb-900d-53c1ca1e0687.png">
+</p>
+
+- A [second proposal](https://governance.aave.com/t/proposal-add-tbtc-as-collateral-in-aave-v2/1829) has been submitted .
+- With some updates on the growth of TBTC.
+- A polling was added to support TBTC's addition to Aave.
 
 ---
 
@@ -170,10 +219,6 @@ You can see all participants [here](https://allthekeeps.com/torch).
 </p>
 
 ## Potential Adoption
-- [Maker proposal of adding TBTC as collateral](https://forum.makerdao.com/t/tbtc-proposal-for-collateral-onboarding-tbtc/2328)
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/58348113/97590690-d4c3ec80-1a39-11eb-8d12-e10d05e21f4b.png">
-</p>
 
 - [AAVE proposal of adding TBTC](https://governance.aave.com/t/proposal-add-support-for-tbtc/575)
 
