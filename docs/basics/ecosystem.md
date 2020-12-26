@@ -1,19 +1,38 @@
 # TBTC Ecosystem
 ## Mint TBTC
-- Official TBTC minting page : https://dapp.tbtc.network/deposit
+### Official TBTC minting page : https://dapp.tbtc.network/deposit
 
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097675-62a47e00-16ae-11eb-8dd9-679f83bfa704.png">
 </p>
 
-- JellySwap: https://app.jelly.market/swap/BTC-TBTC 
+- Official steps for minting - [Here](https://tbtc.network/developers/how-to-use-the-tbtc-dapp/)
+- Chandru's Minting step by step - [Guide](https://chdru.medium.com/tbtc-minting-steps-88162f9f416)
+- Chandru's Redeeming step by step - [Guide](https://chdru.medium.com/step-by-step-guide-for-redeeming-tbtc-6b9733e82cb2)
+- Mint and redeem - [Video](https://www.youtube.com/watch?v=5T6EEumaWzA&ab_channel=nnevinniy)
 
-You can swap between native BTC and TBTC in any amount desired, here you are not limited by the TBTC defined sizes. For example if you want to transfer 2.5 BTC you would need 3 transactions in TBTC Dashboard and only one here.
+
+### JellySwap: https://app.jelly.market/swap/BTC-TBTC 
+
+- You can swap between native BTC and TBTC in any amount desired, here you are not limited by the TBTC defined sizes. 
+- For example if you want to transfer 2.5 BTC you would need 3 transactions in TBTC Dashboard and only one here.
 
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097672-502a4480-16ae-11eb-8045-0658f7556355.png">
 </p>
 
+### CoinList
+
+- Just deposit BTC, hit "mint" within few second tBTC in wallet ready to be transferred out.
+- Check Dmytro's guide for mints on Coinlist [here](https://hardcorecoin.medium.com/how-to-mint-btc-to-tbtc-using-coinlist-guide-7f7db028fec5)
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/103155989-0e3b7e80-4783-11eb-8503-a4d7c286dfb3.png">
+</p>
+
+
+
+---
 ## Trade TBTC
 You can trade TBTC at **Uniswap**, **Curve**, **Balancer**, **Sushiswap** now and there are liquidity incentives for Curve and Sushiswap.
 ### Uniswap
