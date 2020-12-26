@@ -1,9 +1,27 @@
 
 
 # Getting Started
-In this guide, you'll find all the information you need to stake on the Keep Network and start earning rewards.
 
-## Basic Description - TLDR
+You probably have seen Matt's blogpost from last Dec, 3rd: [A new rewards mechanism - 
+or, How to make 200% APY on your ETH!](https://blog.keep.network/a-new-rewards-mechanism-deef3412c3e1) , and ask yourself how to start.
+
+Well, long story short, since this is a decentralized network of nodes, this means active staking - you have to be involved. 
+
+**And you need 3 things :**
+- Run a node (yourself or with a staking provider).
+- 70k KEEP token for staking (which will be lower over time).
+- any amount of ETH for bonding.
+
+**Down the road, soon to be announced, there will be :**
+- Eth only staking, no need for KEEP tokens minimum stack.
+- Pooled staking, so you can stake with less tokens than the minimum amount.
+- Custodial staking, so you can stake and forget.
+
+In this guide, we want to walk you around, so that you'll find all the information you need to stake on the Keep Network and start earning rewards.
+
+
+
+## Basic KEEP Description - TLDR
 The Keep Network's native token, a KEEP, powers the network and undergirds all the apps that are and will be built on it. Anyone with KEEP tokens can stake them, setting them aside as collateral for Keep Network operations.
 
 Staked tokens are delegated by a KEEP token holder to an operator address, who performs work on the network. This work contribution is rewarded, but if an operator misbehaves and doesn't follow their operator contract, their collateral can be taken away (stake slashing) as punishment.
