@@ -387,7 +387,7 @@ Report
 
 ## Keep Community Videos
 
-?> Be sure to check out and subscribe to the [Keep Network Youtube Channel](https://www.youtube.com/channel/UC4LmXpKWkNriL209aV3QAJw). You will find  there a complete list of videos including Keep Team appearences on Podcast and Interviews!
+?> Be sure to check out and subscribe to the [Keep Network Youtube Channel](https://www.youtube.com/channel/UC4LmXpKWkNriL209aV3QAJw) setup by **Harikari MoMoMo**. You will find  there a complete list of videos including Keep Team appearences on Podcast and Interviews!
 
 **Tian7.eth's :** 
 - [TBTC Redemption Monitoring](https://youtu.be/Lzch9w5-NpE)
@@ -512,6 +512,9 @@ Random Number Creation Tool
 **JokerPrestus' :** [Keep Puzzle](https://keep-puzzle.online/) & [Keep Maps](https://keepmaps.000webhostapp.com/)
 
 
+
+<p style="text-align: left; width:49%; display: inline-block;"><a href="/#/basics/ecosystem">Previous</a></p>
+<p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/basics/atk">Next</a></p>
 
 ---
 
