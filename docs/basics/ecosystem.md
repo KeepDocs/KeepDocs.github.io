@@ -29,7 +29,9 @@ https://app.jelly.market/swap/BTC-TBTC
 
 
 
-### CoinList: https://coinlist.co/
+### CoinList
+
+https://coinlist.co/
 
 - Just deposit BTC, hit "mint" within few second tBTC in wallet ready to be transferred out.
 - Check Dmytro's guide for mints on Coinlist [here](https://hardcorecoin.medium.com/how-to-mint-btc-to-tbtc-using-coinlist-guide-7f7db028fec5)
@@ -151,6 +153,8 @@ You can find the contract address [here](https://etherscan.io/address/0xC2509979
 
 ### Cream
 https://app.cream.finance/
+
+
 CREAM has approved recently TBTC as a Lending/Borrowing Collateral Asset in this [Governance Vote](https://snapshot.page/#/cream/proposal/QmPiVqdEXUKguQPiTgefE6S4A4KqoYBfM7q5v9hrZVMm23). Plan is that TBTC is available in the next weeks.
 
 This is the first platform that will allow to use TBTC as a collateral for lending/borrowing and increases the utility of TBTC in a big way.
@@ -168,6 +172,8 @@ This is the first platform that will allow to use TBTC as a collateral for lendi
    - Deposit DAI and borrow TBTC to redeem a KEEP at risk of Liquidation vs buying TBTC on the market if there is a big price slippage; return TBTC when you can mint back
 
 **Some quick history on CREAM:**
+
+
 It started in August as a Lending Platform, as a Fork of Compound.
 They recently announced a Collaboration Yearn, which may increase the utility of the CREAM platform: (https://medium.com/iearn/yearn-cream-v2-merger-e9fa6c6989b4)
 
@@ -218,15 +224,7 @@ You can see all participants [here](https://allthekeeps.com/torch).
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097701-b31bdb80-16ae-11eb-9998-00967daff42c.png">
 </p>
 
-## Potential Adoption
-
-- [AAVE proposal of adding TBTC](https://governance.aave.com/t/proposal-add-support-for-tbtc/575)
-
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/58348113/97590921-1359a700-1a3a-11eb-900d-53c1ca1e0687.png">
-</p>
-
-
+## Potential Adoptions
 
 - [Yearn propsal of TBTC vault](https://gov.yearn.finance/t/request-for-yearn-community-support-for-tbtc-and-creation-of-tbtc-vault-decentralized-bitcoin/6374)
 
