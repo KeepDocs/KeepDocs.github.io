@@ -2,14 +2,14 @@
 
 # Getting Started
 
-You probably have seen Matt's blogpost : 
+You probably have seen Matt's blogpost ["A new rewards mechanism - 
+or, How to make 200% APY on your ETH!"](https://blog.keep.network/a-new-rewards-mechanism-deef3412c3e1) , and ask yourself how to start.
 
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/73607532/103154477-48eaea00-4776-11eb-877b-39e593e76c8d.png">
 </p>
 
-[A new rewards mechanism - 
-or, How to make 200% APY on your ETH!](https://blog.keep.network/a-new-rewards-mechanism-deef3412c3e1) , and ask yourself how to start.
+
 
 ## Long story short 
 **Since this is a decentralized network of nodes, this means active staking - you would need 3 things :**
