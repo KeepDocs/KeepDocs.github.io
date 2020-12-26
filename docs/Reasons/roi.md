@@ -81,7 +81,7 @@ The results are less attractive due to the following facts:
 
 ---
 
-<p style="text-align: left; width:49%; display: inline-block;"><a href="/#/reasons/reasons">Previous</a></p>
+<p style="text-align: left; width:49%; display: inline-block;"><a href="/#/Reasons/reasons">Previous</a></p>
 <p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/comparison/comparesimilar">Next</a></p>
 
 
