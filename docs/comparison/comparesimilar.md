@@ -51,6 +51,10 @@ This requirements will reduce over time [(Source)](https://hackmd.io/@protocolla
   <img width="450" src="https://user-images.githubusercontent.com/73607532/99149334-0eb50580-266c-11eb-8d0d-387e385ea74f.png">
 </p>
 
+---
+
+<p style="text-align: left; width:49%; display: inline-block;"><a href="/#/Reasons/roi">Previous</a></p>
+<p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/Reasons/roi">Next</a></p>
 
 
 ---
