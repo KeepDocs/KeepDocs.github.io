@@ -2,11 +2,11 @@
 
 # Getting Started
 
-You probably have seen Matt's blogpost ["A new rewards mechanism - 
-or, How to make 200% APY on your ETH!"](https://blog.keep.network/a-new-rewards-mechanism-deef3412c3e1) , and ask yourself how to start.
+You probably have seen Matt's blogpost **["A new rewards mechanism - 
+or, How to make 200% APY on your ETH"](https://blog.keep.network/a-new-rewards-mechanism-deef3412c3e1)** , and asked yourself how to start.
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/73607532/103154477-48eaea00-4776-11eb-877b-39e593e76c8d.png">
+  <img width="600" src="https://user-images.githubusercontent.com/73607532/103154477-48eaea00-4776-11eb-877b-39e593e76c8d.png">
 </p>
 
 
@@ -18,7 +18,7 @@ or, How to make 200% APY on your ETH!"](https://blog.keep.network/a-new-rewards-
 - any amount of ETH for bonding.
 
 **Down the road, soon to be announced, there will be :**
-- Eth only staking, no need for KEEP tokens minimum stack.
+- Eth-only staking, no need for KEEP tokens minimum stack.
 - Pooled staking, so you can stake with less tokens than the minimum amount.
 - Custodial staking, so you can stake and forget.
 
