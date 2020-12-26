@@ -12,6 +12,8 @@
 - Mint and redeem - [Video](https://www.youtube.com/watch?v=5T6EEumaWzA&ab_channel=nnevinniy)
 
 
+
+
 ### JellySwap: https://app.jelly.market/swap/BTC-TBTC 
 
 - You can swap between native BTC and TBTC in any amount desired, here you are not limited by the TBTC defined sizes. 
@@ -21,7 +23,10 @@
   <img width="450" src="https://user-images.githubusercontent.com/58348113/97097672-502a4480-16ae-11eb-8045-0658f7556355.png">
 </p>
 
-### CoinList
+
+
+
+### CoinList: https://coinlist.co/
 
 - Just deposit BTC, hit "mint" within few second tBTC in wallet ready to be transferred out.
 - Check Dmytro's guide for mints on Coinlist [here](https://hardcorecoin.medium.com/how-to-mint-btc-to-tbtc-using-coinlist-guide-7f7db028fec5)
