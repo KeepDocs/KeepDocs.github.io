@@ -5,7 +5,7 @@ There are two main phases for generating strong returns while operating Keep Net
 
 
 ## Network Bootstrapping with Subsidies
-There is a strong [staking reward subsidy](https://keep-network.gitbook.io/staking-documentation/keep-network-staking/staking-reward-subsidy#keep-holders-stakedrop-subsidy) for early participants that help bootstrap the Network:
+There is a strong [staking reward subsidy](https://staking.keep.network/about-staking/staking-economics) for  participants that help bootstrap the Network:
 
 |**Total KEEP [Supply](https://etherscan.io/token/0x85eee30c52b0b379b046fb0f85f4f3dc3009afec)**|**1,000,000,000 KEEP**|
 | --- | --- |
@@ -15,10 +15,16 @@ There is a strong [staking reward subsidy](https://keep-network.gitbook.io/staki
 
 The Subsidies will be distributed following the schedule shown below.
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/68167410/91521843-45c21900-e8be-11ea-83cc-0d26b0a42fc4.png">
+  <img width="600" src="https://user-images.githubusercontent.com/73607532/103157498-06cfa180-4792-11eb-8962-92e64d67c51a.png">
 </p>
 
 > The mechanics of rewards distribution are further explained in this [article](https://medium.com/@ben_longstaff/crypto-yield-farmers-take-note-understanding-the-tbtc-and-keep-network-rewards-mechanics-6042e9dc5d97) by Ben Longstaff, and the distribution contract code can be found [here](https://github.com/keep-network/keep-core/pull/1863).
+
+
+
+
+
+
 
 ### The estimated Subsidy Rewards ROI are as follows:
 
