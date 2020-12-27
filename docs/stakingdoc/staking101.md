@@ -77,7 +77,7 @@ Some of the providers are :
 - Low Fee Validation, Eduardo Agut **(Bonsfi in Discord)**, is the newest alternative, providing high value and fast answers to users.
 
 ## How to Redeem TBTC for BTC
-- Official Guide for using the you can find it [here](https://tbtc.network/developers/how-to-use-the-tbtc-dapp/).
+- Official Guide for using the [dapp.tbtc.network](https://dapp.tbtc.network/) you can find it [here](https://tbtc.network/developers/how-to-use-the-tbtc-dapp/).
 - It's worh mentioning that this process involves several steps, which should be done one by one with only one browser tab open since it can be buggy.
 - Please use as reference Agoristen's steps explanation and url detail:
 
