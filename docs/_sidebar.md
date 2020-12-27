@@ -11,14 +11,9 @@
 	- [Comparison with other projects](comparison/comparesimilar.md)
 	
 
-- **Staking Documentation**
-	- [Keep Network 101](stakingdoc/keep101.md)
-	- [Staking Rewards](stakingdoc/rewards.md)
-	- [Slashing & Liquidation](stakingdoc/slashing.md)
-	- [Staking Economics](stakingdoc/economics.md)
-	- [Staking with a provider](stakingdoc/stakingoptions.md)
-	- [Staking in House - Running your own Nodes](stakingdoc/stakingoptions.md)
-
+- **Staking**
+	- [Staking 101](stakingdoc/staking101.md)
+	
 - **Node Operation**
   - [Intro](Node-Operation/intro-operation.md)
   - [Deploy your Nodes](Node-Operation/deploy.md)
