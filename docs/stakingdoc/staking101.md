@@ -32,6 +32,12 @@ Staking on Keep is an active job, since there are a few things you just need to 
    - Matt's blogpost :[A new rewards mechanism - 
 or, How to make 200% APY on your ETH](https://blog.keep.network/a-new-rewards-mechanism-deef3412c3e1)
    - Official Documentation: [Staking Rewards](https://staking.keep.network/about-staking/staking-economics)
+ - Play with different rewards scenarios on [AllTheKeeps/Stakedrop](https://allthekeeps.com/stakedrop)
+ 
+ <p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/73607532/103181539-c3a02c00-4880-11eb-818c-50db877841ac.png">
+</p>
+
    
 
 
