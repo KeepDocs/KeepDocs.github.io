@@ -290,17 +290,6 @@ TBTC deposits/redeems Explorer Tool
 
 ## Keep Community Sites
 
-### Keepforum.top
-Community site
-
-
-**Mayflower1984's :** [Keep Forum](https://forum.keepforum.top/)
-- Forum for Keep Community
-<p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/68087535/94609725-90e09a80-0275-11eb-97aa-2af52b568263.png">
-</p>
-
-
 ### Keep.community Information Site
 Community site
 
@@ -314,7 +303,17 @@ Community site
 
 
 
-### Awesome Keep Network 
+### Keepers Community Portal 
+Tools, News, Guides, everything on a fantastic designed site. 
+
+
+**Duccas's :** [keepers.community](https://keepers.community/)
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/103247818-fa407a00-4946-11eb-8160-38a350725761.png">
+</p>
+
+### Awesome Keep Network
 A curated list of keep-network and tBTC dapp related resources. 
 
 
@@ -323,23 +322,11 @@ A curated list of keep-network and tBTC dapp related resources.
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/68087535/94614278-4ca4c880-027c-11eb-8859-1dccd4b609b6.png">
 </p>
-
-
 ---
 ---
 
 
 ## Keep Community Reports
-
-### tBTC & Keep Rewards Mechanics
-Report
-
-
-**Ben Longstaff's :** [Report on Keep Network's Rewards](https://medium.com/@ben_longstaff/crypto-yield-farmers-take-note-understanding-the-tbtc-and-keep-network-rewards-mechanics-6042e9dc5d97)
-
-<p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/68087535/94491846-60d6c000-01bf-11eb-8c32-5602efd3fd6b.png">
-</p>
 
 ### Insurance for blockchain smart contracts
 Report
@@ -469,9 +456,15 @@ Random Number Creation Tool
   <img width="400" src="https://user-images.githubusercontent.com/73607532/102144823-e96f0f00-3e44-11eb-9fce-8338cbddcfdf.png">
 </p>
 
+### KEEP Token Analytical Dashboard
+Data & more data about KEEP token movemonts
 
 
+**Markapola + Ojijina's :**[KEEP Token Analytical Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWMxYjI5N2EtZmY3ZS00ODUzLTkyYzgtZjdhY2ZiYzM5ZjUxIiwidCI6ImIyODYzNTEyLWUzNmMtNDIwYi1hZTk4LTY1ZGEyYzc5ODg4MCJ9&pageName=ReportSection1829c6e9ce51cd9c7192)
 
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/103247939-64591f00-4947-11eb-9f1a-28bebea10a4c.png">
+</p>
 
 
 
