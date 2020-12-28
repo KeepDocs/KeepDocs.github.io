@@ -399,17 +399,6 @@ Report
 
 
 
-### Keep Predict  Site
-
-
-**Airocket's :** [Keeppredict](http://www.keeppredict.com/)
-- neural network KEEP token price prediction site
-- Disclaimer: for entertainment only, do not use for trading decisions !!!
-
-<p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/73607532/98054025-b59dd400-1e18-11eb-9f3f-f2cc4c8d063b.png">
-</p>
-
 ### Keepswap.com
 KEEP tokens swapping tool
 
