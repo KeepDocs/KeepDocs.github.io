@@ -77,7 +77,7 @@ Great opportunity for would-be stakers who haven't quite saved up a min stake. Y
   <img width="450" src="https://user-images.githubusercontent.com/73607532/103155719-fe229f80-4780-11eb-8f27-1765210dcb97.png">
 </p>
 
-**Keep an eye for new updates and announcments from the team on the [Discord Server](https://discord.gg/mQ8sFbgybD).**
+**Keep an eye for new updates and announcements from the team on the [Discord Server](https://discord.gg/mQ8sFbgybD).**
 
 
 ### Curve
