@@ -54,7 +54,7 @@ This requirements will reduce over time [(Source)](https://hackmd.io/@protocolla
 ---
 
 <p style="text-align: left; width:49%; display: inline-block;"><a href="/#/Reasons/roi">Previous</a></p>
-<p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/Reasons/roi">Next</a></p>
+<p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/stakingdoc/staking101">Next</a></p>
 
 
 ---
