@@ -10,6 +10,7 @@ https://dapp.tbtc.network/deposit
 - Official steps for minting - [Here](https://tbtc.network/developers/how-to-use-the-tbtc-dapp/)
 - Chandru's Minting step by step - [Guide](https://chdru.medium.com/tbtc-minting-steps-88162f9f416)
 - Chandru's Redeeming step by step - [Guide](https://chdru.medium.com/step-by-step-guide-for-redeeming-tbtc-6b9733e82cb2)
+- Further redeeming insider hints - [here](https://keepdocs.github.io/#/stakingdoc/staking101?id=how-to-redeem-tbtc-for-btc)
 - Mint and redeem - [Video](https://www.youtube.com/watch?v=5T6EEumaWzA&ab_channel=nnevinniy)
 
 
