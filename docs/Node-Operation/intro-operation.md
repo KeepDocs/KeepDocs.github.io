@@ -11,6 +11,10 @@
 
 ---
 
+<p style="text-align: left; width:49%; display: inline-block;"><a href="/#/comparison/comparesimilar">Previous</a></p>
+<p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/Node-Operation/deploy">Next</a></p>
+
+---
 `Written & assembled by Keep Community.`
 `Contributors: Ramaruro, EstebanK`
 
