@@ -1,6 +1,6 @@
 # Staking on Keep 101
 
-Staking on Keep is an rewarding yet active job. 
+Staking on Keep is a rewarding yet active job. 
 
 
 <p align="center">
