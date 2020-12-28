@@ -2,6 +2,12 @@
 
 Staking on Keep is an rewarding yet active job. 
 
+
+<p align="center">
+  <img width="619" alt="Image by TopCrypto on Discord" src="https://user-images.githubusercontent.com/73607532/103183516-bd667b80-4891-11eb-9001-af77af1bd589.png">
+</p>
+
+
 ## Start
 **As outlined at the very beginning you would need 3 things to start :**
 - Run a node (by yourself or with a staking provider).
@@ -97,4 +103,4 @@ And at step 2 you need to complete it in full with no other dapp related tabs op
 
 ---
 
-`Contributors: Ramaruro, EstebanK`
+`Contributors: Ramaruro, EstebanK  -  Image by TopCrypto on Discord`
