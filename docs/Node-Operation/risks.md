@@ -63,5 +63,11 @@ Refer to the [Kubernetes Deployment Section](https://github.com/Estebank97/Keep-
 This detailed document from the Keep Team provides a lot of information about the ECDSA Node  [Run ECDSA Keep](https://github.com/keep-network/keep-ecdsa/blob/master/docs/run-keep-ecdsa.adoc#5-deployment-consideration)
 
 ---
+
+<p style="text-align: left; width:49%; display: inline-block;"><a href="/#/Node-Operation/monitoring">Previous</a></p>
+<p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/Node-Operation/links">Next</a></p>
+
+
+---
 `Written & assembled by Keep Community.`
 `Contributors: Ramaruro, EstebanK`
