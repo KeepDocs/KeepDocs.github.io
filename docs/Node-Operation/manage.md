@@ -191,5 +191,13 @@ The key activities to update both nodes are the following:
 * Finally, don't forget to add some test ETH to the tBTC bonding on the Dashboard !
 
 ---
+
+<p style="text-align: left; width:49%; display: inline-block;"><a href="/#/Node-Operation/mainnet">Previous</a></p>
+<p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/Node-Operation/troubleshooting">Next</a></p>
+
+---
+
+
+---
 `Written & assembled by Keep Community.`
 `Contributors: Ramaruro, EstebanK`
