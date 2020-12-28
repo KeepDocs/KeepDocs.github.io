@@ -49,7 +49,15 @@ Node Backups Guide
 - Monitoring & Backup for AWS on [Github](https://gist.github.com/afmsavage/7c8a9ccf085bedbc0a2880472a9ef984)
 
 ## Community Tools
-- All tools mentioned in [Community Tools Section](https://estebank97.github.io/Keep-Node-Docs/#/basics/tools) are awesame.
+- All tools mentioned in [Community Tools Section](/#/basics/tools) are awesame.
 - They provide invaluable assistance with smooth mainnet nodes operation !
+
+---
+
+<p style="text-align: left; width:49%; display: inline-block;"><a href="/#/Node-Operation/deploy">Previous</a></p>
+<p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/Node-Operation/manage">Next</a></p>
+
+---
+
 
 
