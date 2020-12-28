@@ -2,9 +2,6 @@
 
 This section covers the following topics related to the Nodes Automated Monitoring, Remote Alerting and Early Warning Methods.
 
-**Content of this Section**
-- [Guides for Setting up Node Monitoring of Keep Nodes](https://github.com/Estebank97/Keep-Node-Operation/wiki/Monitoring-and-Remote-Alerting#guides-for-setting-up-node-monitoring-of-keep-nodes)
-- [Discord and Telegram Bots](https://github.com/Estebank97/Keep-Node-Operation/wiki/Monitoring-and-Remote-Alerting#discord-and-telegram-bots-to-get-keep-network-stats)
 
 ## Guides for Setting up Node Monitoring of Keep Nodes
 ### Random Beacon Monitoring using Grafana, Prometheus, Prometheus Node Exporter, Google cAdvisor and Loki
@@ -43,6 +40,11 @@ This article summarises the steps used to set up the monitoring on Keep Random B
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/73607532/102139810-20412700-3e3d-11eb-8080-e62508df2cb5.png">
 </p>
+
+---
+
+<p style="text-align: left; width:49%; display: inline-block;"><a href="/#/Node-Operation/troubleshooting">Previous</a></p>
+<p style="text-align: right; width:50%;  display: inline-block;"><a href="/#/Node-Operation/risks">Next</a></p>
 
 
 ---
