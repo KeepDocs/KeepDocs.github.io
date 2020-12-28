@@ -54,7 +54,7 @@ If you manage your stake and node in a thorough and responsible way nothing shou
    - if this happens you should redeem your deposit inmediately (details below).
 - You could get slashed :
    - if you or your node doesn't behave properly, your KEEP staked could be seized partially or totally.
-- More overview on our site's [risks section](/#/Node-Operation/risks) 
+- More overview on our site's [risks section](Node-Operation/risks) 
 - Details on the following documentation :
   - **Official :** [Staking Risks](https://staking.keep.network/about-staking/staking-risks)
   - **Ssh's :** [Keep Nodes Risks - Liquidation and Slashing Details](https://hackmd.io/@protocollayer/BkUBl7zIw)
