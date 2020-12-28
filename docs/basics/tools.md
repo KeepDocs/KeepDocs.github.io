@@ -182,15 +182,6 @@ Node Operator Telegram Bot
   <img width="400" src="https://user-images.githubusercontent.com/68087535/94492232-346f7380-01c0-11eb-8e61-5f641c6d80de.png">
 </p>
 
-### 1click-keep.com
-
-**ИльяBazilik's :** [1click-keep.com](http://1click-keep.com/)
-- This web application allows you to run a KEEP node on a newly created server
-- without using the console and without having to go to your server!
-- should have completed previous infura and wallet steps (check Deploy your nodes section)
-<p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/68087535/94489471-e3a94c00-01ba-11eb-9c8e-e89f2779d3dc.png">
-</p>
 
 ### Most simple Nodes installation on one VPS
 
