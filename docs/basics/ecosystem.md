@@ -62,19 +62,20 @@ You can trade TBTC at **Uniswap**, **Curve**, **Balancer**, **Sushiswap** now an
 
 https://dashboard.keep.network/liquidity
 
-Until end January 2021 :
+Newly RE-CHARGED  :
 - [TBTC/ETH](https://info.uniswap.org/pair/0x854056fd40c1b52037166285b2e54fee774d33f6) LPs will earn 50k KEEP per week, 
-- [KEEP/ETH](https://info.uniswap.org/pair/0xe6f19dab7d43317344282f803f8e8d240708174a) LPs will earn 150k KEEP per week,
-- [KEEP/TBTC](https://info.uniswap.org/pair/0x38c8ffee49f286f25d25bad919ff7552e5daf081) — Matt's hodler's pool — will earn 200k KEEP per week.
+- [KEEP/ETH](https://info.uniswap.org/pair/0xe6f19dab7d43317344282f803f8e8d240708174a) LPs will earn 250k KEEP per week,
+- [KEEP/TBTC](https://info.uniswap.org/pair/0x38c8ffee49f286f25d25bad919ff7552e5daf081) — Matt's hodler's pool — will earn 300k KEEP per week.
 - Steps:
 1) To start earning rewards, deposit in the appropriate Uniswap pools
 2) visit the dashboard liquidity page to lock your LP tokens.
+3) Watch those **KEEP rewards** coming in !
 
 
 Great opportunity for would-be stakers who haven't quite saved up a min stake. You can enter these reward pools with as little as 1 KEEP and enough ETH for gas, and start earning up to operate a node :)
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/73607532/103155719-fe229f80-4780-11eb-8f27-1765210dcb97.png">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/104812489-54fc2180-57e1-11eb-8ece-13833dec728d.png">
 </p>
 
 **Keep an eye for new updates and announcements from the team on the [Discord Server](https://discord.gg/mQ8sFbgybD).**
@@ -94,9 +95,19 @@ You can find the contract address [here](https://etherscan.io/address/0xC2509979
 
 ### TBTCFARM.INFO
 - There is no trading or farming here, but it's so nice to watch your CURVE or UNISWAP LP's grow !
+- You CAN farm your KEEP rewards here on the handy links provided !
 - **Crypto Investor's :** [TBTCFarm.info](https://www.tbtcfarm.info/) 
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/73607532/103181605-a4ee6500-4881-11eb-8823-a062e5b313ca.png">
+</p>
+
+### TBTCEXPLORER.COM
+- Check TBTC's total liquidity across all the existing pools !
+- **Mexplo's :** [TBTCExplorer.com/liquidity](https://tbtcexplorer.com/liquidity) has multiple very handy functions (check [Community Tools section](https://keepdocs.github.io/#/basics/tools?id=tbtc-explorer)), including these details about TBTC's availability in Defi.
+
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/104812209-7eb44900-57df-11eb-83f1-e4b57887579d.png">
 </p>
 
 ### Badger DAO
