@@ -80,6 +80,18 @@ Great opportunity for would-be stakers who haven't quite saved up a min stake. Y
 
 **Keep an eye for new updates and announcements from the team on the [Discord Server](https://discord.gg/mQ8sFbgybD).**
 
+### Saddle
+
+[Saddle Exchange](https://saddle.exchange/#/). 
+
+- Swap TBTC with other wrapped BTC in the pool; or 
+- Stake your TBTC and other wrapped BTC in the pool and earn KEEP liquidity incentives via the [Keep Dashboard](https://dashboard.keep.network/liquidity). 
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/73607532/107214821-3f95a400-69e9-11eb-8b51-c5cdd42d96e9.png">
+</p>
+
+
 
 ### Curve
 
